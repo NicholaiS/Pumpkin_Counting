@@ -22,12 +22,6 @@ def calculate_mahalanobis_distance(img, reference_color, covariance_matrix, thre
     binary_mask = (mahalanobis_distance_image < threshold).astype(np.uint8) * 255
     return binary_mask
 
-def inRange_RGB():
-    return None
-
-def inRange_CieLAB():
-    return None
-
 def save_image(image, file_path):
     """
     Saves image file using OpenCV

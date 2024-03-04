@@ -54,13 +54,13 @@ upper_bound_bgr = [104, 199, 255]
 lower_bound_lab_opencv = cv2.cvtColor(np.uint8([[lower_bound_bgr]]), cv2.COLOR_BGR2LAB)[0][0]
 upper_bound_lab_opencv = cv2.cvtColor(np.uint8([[upper_bound_bgr]]), cv2.COLOR_BGR2LAB)[0][0]
 
-# Perform color segmentation using: inRange with RGB values
+# Perform color segmentation using: inRange with BGR values
 mask_lab = color_segmentation_lab(image, lower_bound_lab_opencv, upper_bound_lab_opencv)
 
 # Perform color segmentation using: inRange with CieLAB values
 mask_bgr = color_segmentation_bgr(image, lower_bound_bgr, upper_bound_bgr)
 
-# Perform color segmentation using: Distance in RGB space to a reference colour
+# Perform color segmentation using: Distance in BGR space to a reference colour
 mask_maha = calculate_mahalanobis_distance(image, reference_color, covariance_matrix, 10.0)
 
 # Display the segmented masks
