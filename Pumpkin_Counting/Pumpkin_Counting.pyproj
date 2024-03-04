@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>33f04287-f7f6-4630-9bd6-6a88bdd5db8c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Pumpkin_Counting.py</StartupFile>
+    <StartupFile>Segmentation_tests.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,7 +24,7 @@
     <Compile Include="Chunk_manipulation.py" />
     <Compile Include="Image_processing.py" />
     <Compile Include="Mask.py" />
-    <Compile Include="module1.py" />
+    <Compile Include="Segmentation_tests.py" />
     <Compile Include="Pumpkin_Counting.py" />
   </ItemGroup>
   <ItemGroup>
