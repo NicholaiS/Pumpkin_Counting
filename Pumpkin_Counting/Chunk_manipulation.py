@@ -37,7 +37,7 @@ def stitch_chunks(chunk_folder, position_file, output_folder, chunk_size):
     # Iterate through chunks and stitch them
     for chunk_num, pos in enumerate(positions):
         # Load chunk image
-        chunk_path = os.path.join(chunk_folder, f"Chunk_{chunk_num}", f"Chunk_{chunk_num}.png")
+        chunk_path = os.path.join(chunk_folder, f"Chunk_{chunk_num}", f"Chunk_{chunk_num}.jpg")
         chunk_image = cv2.imread(chunk_path)
 
         # Draw outline around the chunk
@@ -67,5 +67,5 @@ def stitch_chunks(chunk_folder, position_file, output_folder, chunk_size):
         output_image[y:y_end, x:x_end] = chunk_image_resized
 
     # Save stitched image
-    output_path = os.path.join(output_folder, "stitched_image.png")
+    output_path = os.path.join(output_folder, "stitched_image.jpg")
     cv2.imwrite(output_path, output_image)

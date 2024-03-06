@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>33f04287-f7f6-4630-9bd6-6a88bdd5db8c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Segmentation_tests.py</StartupFile>
+    <StartupFile>Source.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,12 +25,13 @@
     <Compile Include="Image_processing.py" />
     <Compile Include="Mask.py" />
     <Compile Include="Segmentation_tests.py" />
-    <Compile Include="Pumpkin_Counting.py" />
+    <Compile Include="Source.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Input files\" />
     <Folder Include="Chunks\" />
     <Folder Include="Mask data\" />
+    <Folder Include="Segmentation tests\" />
     <Folder Include="Position data\" />
   </ItemGroup>
   <ItemGroup>

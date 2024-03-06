@@ -3,7 +3,7 @@ import numpy as np
 import os
 import matplotlib.pyplot as plt
 
-REF_IMG_NO = 3
+REF_IMG_NO = 4
 
 def extract_annotated_pixels_and_mask(original_image_path, annotated_image_path):
     # Read the original and annotated images
@@ -109,8 +109,8 @@ def save_covariance_matrix(cov_rgb, save_path):
 # Main function
 if __name__ == "__main__":
     # Provide the paths to the original and annotated images
-    original_image_path = "Mask data/mask_img.png"
-    annotated_image_path = "Mask data/mask_img_" + str(REF_IMG_NO) + "_red.png"
+    original_image_path = "Mask data/mask_img.jpg"
+    annotated_image_path = "Mask data/mask_img_" + str(REF_IMG_NO) + "_red.jpg"
 
     # Extract annotated pixels and mask
     annotated_pixel_values, mask = extract_annotated_pixels_and_mask(original_image_path, annotated_image_path)
@@ -124,10 +124,10 @@ if __name__ == "__main__":
     print("RGB Covariance Matrix:", cov_rgb)
 
     # Save the distribution plots
-    visualize_distribution(annotated_pixel_values, cv2.cvtColor(annotated_pixel_values.reshape(-1, 1, 3), cv2.COLOR_RGB2Lab), save_path="Mask data/mask_img_" + str(REF_IMG_NO) + "_distribution_plots.png")
+    visualize_distribution(annotated_pixel_values, cv2.cvtColor(annotated_pixel_values.reshape(-1, 1, 3), cv2.COLOR_RGB2Lab), save_path="Mask data/mask_img_" + str(REF_IMG_NO) + "_distribution_plots.jpg")
 
     # Save the mean color in RGB
-    save_mean_color(mean_rgb, save_path="Mask data/mask_img_" + str(REF_IMG_NO) + "_mean_color_rgb.png")
+    save_mean_color(mean_rgb, save_path="Mask data/mask_img_" + str(REF_IMG_NO) + "_mean_color_rgb.jpg")
     
     if not os.path.exists('Input files'):
         os.makedirs('Input files')

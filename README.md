@@ -18,7 +18,7 @@ Contains functions used in Pumpkin_counting.py to manipulate chunks. Both making
 ## Image_processing.py
 Contains functions used in Pumpkin_counting.py in order to make colour segmentation, feature extraction and saving positions of objects of interest.
 
-## Pumpkin_counting.py
+## Source.py
 Iterates over the .tif file using chunks. Doing colour segmentation, feature extraction and getting position of objects of interest on each chunk.
 Then removing duplicates made by splitting an object with a chunk border.
 Lastly marking the objects using circles in the entire stitched image. 

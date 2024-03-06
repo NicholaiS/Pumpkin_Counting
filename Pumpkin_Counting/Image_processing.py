@@ -52,8 +52,10 @@ def extract_features(img_maha, chunk_data, chunk_num, AREA_LOWER=None, AREA_UPPE
     pumpkin_positions_chunk = []  # List to store pumpkin positions in this chunk
     count = 0
 
+    chunk_img = load_image(f"Chunks/Chunk_{chunk_num}/Chunk_{chunk_num}.jpg")
+
     # Counting objects based on area and circularity
-    with open(f"Chunks/Chunk_{chunk_num}/Pumpkins_Chunk{chunk_num}_datalog.txt", 'w') as f:
+    with open(f"Chunks/Chunk_{chunk_num}/Pumpkins_Chunk_{chunk_num}_datalog.txt", 'w') as f:
         for contour in contours:
             area = cv2.contourArea(contour)
             perimeter = cv2.arcLength(contour, True)
@@ -67,6 +69,7 @@ def extract_features(img_maha, chunk_data, chunk_num, AREA_LOWER=None, AREA_UPPE
                     # Finding the centroid for the contours using image moments.
                     cX = int(moments['m10'] / moments['m00'])
                     cY = int(moments['m01'] / moments['m00'])
+                    pos = (cX, cY)
 
                     # Logging relevant information for each chunk
                     f.write(f"Contour:\n")
@@ -77,11 +80,15 @@ def extract_features(img_maha, chunk_data, chunk_num, AREA_LOWER=None, AREA_UPPE
 
                     # Add pumpkin position to the list
                     pumpkin_positions_chunk.append((cX, cY))
+                    
+                    cv2.circle(chunk_img, pos, 5, (0, 0, 255), 1)
 
                     count += 1
         f.write(f"Pumpkins counted: {count}\n")
 
+    save_image(chunk_img, f"Chunks/Chunk_{chunk_num}/Chunk_{chunk_num}_marked.jpg")
+
     # Return chunk data, count, and pumpkin positions
-    return chunk_data, count, pumpkin_positions_chunk
+    return chunk_data, pumpkin_positions_chunk
 
 

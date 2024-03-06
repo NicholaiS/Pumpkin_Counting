@@ -1,0 +1,7121 @@
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 432, y: 998
+Contour:
+Area: 1.0
+Perimeter: 16.82842707633972
+Circularity: 0.04437341093832979
+Object center position: x: 658, y: 996
+Contour:
+Area: 2.0
+Perimeter: 19.313708305358887
+Circularity: 0.06737651190752145
+Object center position: x: 359, y: 997
+Contour:
+Area: 3.0
+Perimeter: 20.485281229019165
+Circularity: 0.08983534868245349
+Object center position: x: 143, y: 997
+Contour:
+Area: 17.0
+Perimeter: 26.485281229019165
+Circularity: 0.3045436916143294
+Object center position: x: 847, y: 996
+Contour:
+Area: 0.5
+Perimeter: 21.899494767189026
+Circularity: 0.013101218121543962
+Object center position: x: 814, y: 996
+Contour:
+Area: 2.0
+Perimeter: 13.656854152679443
+Circularity: 0.13475302302368022
+Object center position: x: 686, y: 995
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 707, y: 995
+Contour:
+Area: 0.5
+Perimeter: 27.55634891986847
+Circularity: 0.008274400120704899
+Object center position: x: 253, y: 995
+Contour:
+Area: 4.0
+Perimeter: 7.656854152679443
+Circularity: 0.8573716241035623
+Object center position: x: 76, y: 993
+Contour:
+Area: 15.0
+Perimeter: 16.485281229019165
+Circularity: 0.6935989106655485
+Object center position: x: 865, y: 993
+Contour:
+Area: 9.0
+Perimeter: 11.656854152679443
+Circularity: 0.8323186919600186
+Object center position: x: 304, y: 992
+Contour:
+Area: 14.0
+Perimeter: 14.828427076339722
+Circularity: 0.8001063703614795
+Object center position: x: 449, y: 992
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 437, y: 992
+Contour:
+Area: 17.0
+Perimeter: 16.485281229019165
+Circularity: 0.786078765420955
+Object center position: x: 349, y: 992
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 750, y: 990
+Contour:
+Area: 0.5
+Perimeter: 21.55634891986847
+Circularity: 0.013521642800826338
+Object center position: x: 714, y: 992
+Contour:
+Area: 19.0
+Perimeter: 18.485281229019165
+Circularity: 0.6987331381741835
+Object center position: x: 229, y: 991
+Contour:
+Area: 16.5
+Perimeter: 17.071067690849304
+Circularity: 0.7114959615650317
+Object center position: x: 25, y: 990
+Contour:
+Area: 4.0
+Perimeter: 25.313708305358887
+Circularity: 0.07844374381463906
+Object center position: x: 257, y: 989
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 332, y: 986
+Contour:
+Area: 25.5
+Perimeter: 19.071067690849304
+Circularity: 0.8810489322064039
+Object center position: x: 221, y: 987
+Contour:
+Area: 26.0
+Perimeter: 21.313708305358887
+Circularity: 0.7192256648100112
+Object center position: x: 167, y: 988
+Contour:
+Area: 23.0
+Perimeter: 18.485281229019165
+Circularity: 0.8458348514740116
+Object center position: x: 489, y: 987
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 287, y: 985
+Contour:
+Area: 44.5
+Perimeter: 28.727921843528748
+Circularity: 0.6775813656336402
+Object center position: x: 825, y: 986
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 559, y: 984
+Contour:
+Area: 11.5
+Perimeter: 13.41421353816986
+Circularity: 0.8031141418478369
+Object center position: x: 369, y: 984
+Contour:
+Area: 1.0
+Perimeter: 14.485281229019165
+Circularity: 0.05989023280668573
+Object center position: x: 183, y: 985
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 69, y: 983
+Contour:
+Area: 15.5
+Perimeter: 16.242640614509583
+Circularity: 0.7382922197978818
+Object center position: x: 697, y: 982
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 439, y: 981
+Contour:
+Area: 33.5
+Perimeter: 27.55634891986847
+Circularity: 0.5543848080872282
+Object center position: x: 140, y: 984
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 104, y: 981
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 948, y: 980
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 431, y: 980
+Contour:
+Area: 1.0
+Perimeter: 8.828427076339722
+Circularity: 0.16122901320758615
+Object center position: x: 419, y: 980
+Contour:
+Area: 25.0
+Perimeter: 18.485281229019165
+Circularity: 0.9193857081239257
+Object center position: x: 27, y: 981
+Contour:
+Area: 0.5
+Perimeter: 12.242640614509583
+Circularity: 0.04192081010288971
+Object center position: x: 602, y: 978
+Contour:
+Area: 14.0
+Perimeter: 14.828427076339722
+Circularity: 0.8001063703614795
+Object center position: x: 230, y: 978
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 395, y: 975
+Contour:
+Area: 16.5
+Perimeter: 15.899494767189026
+Circularity: 0.8202139662830028
+Object center position: x: 166, y: 977
+Contour:
+Area: 8.0
+Perimeter: 10.828427076339722
+Circularity: 0.8573716100878628
+Object center position: x: 147, y: 974
+Contour:
+Area: 21.5
+Perimeter: 19.071067690849304
+Circularity: 0.7428451781348111
+Object center position: x: 971, y: 975
+Contour:
+Area: 25.0
+Perimeter: 19.313708305358887
+Circularity: 0.842206398844018
+Object center position: x: 526, y: 973
+Contour:
+Area: 0.5
+Perimeter: 3.414213538169861
+Circularity: 0.5390120920947209
+Object center position: x: 513, y: 970
+Contour:
+Area: 6.5
+Perimeter: 10.242640614509583
+Circularity: 0.778573021914597
+Object center position: x: 387, y: 970
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 632, y: 968
+Contour:
+Area: 0.5
+Perimeter: 3.414213538169861
+Circularity: 0.5390120920947209
+Object center position: x: 550, y: 967
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 17, y: 968
+Contour:
+Area: 17.0
+Perimeter: 15.656854152679443
+Circularity: 0.8714646463829057
+Object center position: x: 721, y: 968
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 678, y: 968
+Contour:
+Area: 8.0
+Perimeter: 10.828427076339722
+Circularity: 0.8573716100878628
+Object center position: x: 530, y: 967
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 611, y: 967
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 878, y: 965
+Contour:
+Area: 32.5
+Perimeter: 35.21320307254791
+Circularity: 0.3293685762165986
+Object center position: x: 540, y: 969
+Contour:
+Area: 23.5
+Perimeter: 19.071067690849304
+Circularity: 0.8119470551706076
+Object center position: x: 37, y: 967
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 827, y: 964
+Contour:
+Area: 30.0
+Perimeter: 22.14213538169861
+Circularity: 0.768939401168237
+Object center position: x: 51, y: 966
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 10, y: 964
+Contour:
+Area: 27.5
+Perimeter: 21.071067690849304
+Circularity: 0.7783402209173513
+Object center position: x: 270, y: 963
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 71, y: 963
+Contour:
+Area: 9.5
+Perimeter: 13.071067690849304
+Circularity: 0.698733140133956
+Object center position: x: 277, y: 961
+Contour:
+Area: 2.0
+Perimeter: 14.485281229019165
+Circularity: 0.11978046561337145
+Object center position: x: 391, y: 959
+Contour:
+Area: 1.5
+Perimeter: 33.21320307254791
+Circularity: 0.017087542248183044
+Object center position: x: 132, y: 963
+Contour:
+Area: 1.0
+Perimeter: 8.828427076339722
+Circularity: 0.16122901320758615
+Object center position: x: 625, y: 957
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 872, y: 958
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 742, y: 957
+Contour:
+Area: 0.5
+Perimeter: 15.899494767189026
+Circularity: 0.02485496867524251
+Object center position: x: 727, y: 959
+Contour:
+Area: 14.0
+Perimeter: 14.828427076339722
+Circularity: 0.8001063703614795
+Object center position: x: 135, y: 958
+Contour:
+Area: 25.5
+Perimeter: 19.899494767189026
+Circularity: 0.8092187632778012
+Object center position: x: 467, y: 957
+Contour:
+Area: 32.5
+Perimeter: 21.899494767189026
+Circularity: 0.8515791779003574
+Object center position: x: 421, y: 958
+Contour:
+Area: 14.0
+Perimeter: 13.656854152679443
+Circularity: 0.9432711611657616
+Object center position: x: 195, y: 957
+Contour:
+Area: 22.0
+Perimeter: 17.656854152679443
+Circularity: 0.8867595726417237
+Object center position: x: 158, y: 957
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 105, y: 957
+Contour:
+Area: 49.0
+Perimeter: 32.14213538169861
+Circularity: 0.5960140423938289
+Object center position: x: 61, y: 959
+Contour:
+Area: 19.0
+Perimeter: 17.656854152679443
+Circularity: 0.7658378127360341
+Object center position: x: 251, y: 956
+Contour:
+Area: 25.0
+Perimeter: 19.656854152679443
+Circularity: 0.8130585890050616
+Object center position: x: 240, y: 956
+Contour:
+Area: 6.5
+Perimeter: 43.21320307254791
+Circularity: 0.04374116074965168
+Object center position: x: 496, y: 957
+Contour:
+Area: 36.5
+Perimeter: 29.55634891986847
+Circularity: 0.5250505995604844
+Object center position: x: 183, y: 957
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 94, y: 955
+Contour:
+Area: 6.0
+Perimeter: 9.656854152679443
+Circularity: 0.8085181428902574
+Object center position: x: 345, y: 954
+Contour:
+Area: 23.0
+Perimeter: 18.485281229019165
+Circularity: 0.8458348514740116
+Object center position: x: 703, y: 953
+Contour:
+Area: 1.0
+Perimeter: 23.313708305358887
+Circularity: 0.023119963665556072
+Object center position: x: 560, y: 952
+Contour:
+Area: 8.0
+Perimeter: 12.0
+Circularity: 0.6981317007977318
+Object center position: x: 448, y: 952
+Contour:
+Area: 3.0
+Perimeter: 33.79898953437805
+Circularity: 0.03300074052613295
+Object center position: x: 111, y: 953
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 458, y: 952
+Contour:
+Area: 16.5
+Perimeter: 15.071067690849304
+Circularity: 0.9128633418714199
+Object center position: x: 395, y: 952
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 831, y: 950
+Contour:
+Area: 1.0
+Perimeter: 10.828427076339722
+Circularity: 0.10717145126098285
+Object center position: x: 745, y: 949
+Contour:
+Area: 10.5
+Perimeter: 13.41421353816986
+Circularity: 0.7332781295132426
+Object center position: x: 553, y: 949
+Contour:
+Area: 0.5
+Perimeter: 30.38477599620819
+Circularity: 0.00680562147822441
+Object center position: x: 749, y: 952
+Contour:
+Area: 7.0
+Perimeter: 9.656854152679443
+Circularity: 0.9432711667053002
+Object center position: x: 643, y: 948
+Contour:
+Area: 11.5
+Perimeter: 15.071067690849304
+Circularity: 0.6362380867588684
+Object center position: x: 811, y: 946
+Contour:
+Area: 30.5
+Perimeter: 21.071067690849304
+Circularity: 0.8632500631992441
+Object center position: x: 903, y: 945
+Contour:
+Area: 22.5
+Perimeter: 19.071067690849304
+Circularity: 0.7773961166527094
+Object center position: x: 857, y: 945
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 683, y: 944
+Contour:
+Area: 30.0
+Perimeter: 34.14213538169861
+Circularity: 0.32340725525683256
+Object center position: x: 308, y: 945
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 64, y: 944
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 915, y: 942
+Contour:
+Area: 19.0
+Perimeter: 17.656854152679443
+Circularity: 0.7658378127360341
+Object center position: x: 463, y: 944
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 358, y: 944
+Contour:
+Area: 25.0
+Perimeter: 19.313708305358887
+Circularity: 0.842206398844018
+Object center position: x: 527, y: 943
+Contour:
+Area: 17.5
+Perimeter: 17.071067690849304
+Circularity: 0.7546169289326093
+Object center position: x: 880, y: 942
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 711, y: 942
+Contour:
+Area: 44.5
+Perimeter: 80.18376553058624
+Circularity: 0.08697550923431689
+Object center position: x: 219, y: 942
+Contour:
+Area: 20.5
+Perimeter: 18.242640614509583
+Circularity: 0.7740844086099381
+Object center position: x: 673, y: 940
+Contour:
+Area: 24.0
+Perimeter: 19.313708305358887
+Circularity: 0.8085181428902574
+Object center position: x: 139, y: 942
+Contour:
+Area: 27.5
+Perimeter: 27.071067690849304
+Circularity: 0.4715543855483246
+Object center position: x: 919, y: 943
+Contour:
+Area: 15.5
+Perimeter: 15.41421353816986
+Circularity: 0.8197828337686409
+Object center position: x: 366, y: 940
+Contour:
+Area: 32.0
+Perimeter: 26.485281229019165
+Circularity: 0.573258713626973
+Object center position: x: 9, y: 943
+Contour:
+Area: 0.5
+Perimeter: 13.071067690849304
+Circularity: 0.03677542842810295
+Object center position: x: 749, y: 937
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 890, y: 937
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 794, y: 936
+Contour:
+Area: 24.0
+Perimeter: 21.313708305358887
+Circularity: 0.6639006136707795
+Object center position: x: 123, y: 938
+Contour:
+Area: 15.5
+Perimeter: 15.071067690849304
+Circularity: 0.8575382908489095
+Object center position: x: 352, y: 936
+Contour:
+Area: 8.0
+Perimeter: 10.828427076339722
+Circularity: 0.8573716100878628
+Object center position: x: 237, y: 935
+Contour:
+Area: 11.5
+Perimeter: 13.071067690849304
+Circularity: 0.8458348538463678
+Object center position: x: 322, y: 935
+Contour:
+Area: 19.5
+Perimeter: 17.899494767189026
+Circularity: 0.7648265049708362
+Object center position: x: 80, y: 935
+Contour:
+Area: 9.0
+Perimeter: 11.656854152679443
+Circularity: 0.8323186919600186
+Object center position: x: 866, y: 933
+Contour:
+Area: 31.0
+Perimeter: 22.485281229019165
+Circularity: 0.7705040224642447
+Object center position: x: 424, y: 934
+Contour:
+Area: 17.0
+Perimeter: 16.82842707633972
+Circularity: 0.7543479859516065
+Object center position: x: 288, y: 934
+Contour:
+Area: 1.0
+Perimeter: 14.485281229019165
+Circularity: 0.05989023280668573
+Object center position: x: 272, y: 934
+Contour:
+Area: 32.5
+Perimeter: 21.899494767189026
+Circularity: 0.8515791779003574
+Object center position: x: 613, y: 934
+Contour:
+Area: 25.5
+Perimeter: 19.899494767189026
+Circularity: 0.8092187632778012
+Object center position: x: 406, y: 933
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 151, y: 933
+Contour:
+Area: 0.5
+Perimeter: 14.242640614509583
+Circularity: 0.030974110022565192
+Object center position: x: 804, y: 930
+Contour:
+Area: 13.5
+Perimeter: 15.071067690849304
+Circularity: 0.746888188803889
+Object center position: x: 317, y: 930
+Contour:
+Area: 15.5
+Perimeter: 15.071067690849304
+Circularity: 0.8575382908489095
+Object center position: x: 714, y: 929
+Contour:
+Area: 9.0
+Perimeter: 12.0
+Circularity: 0.7853981633974483
+Object center position: x: 935, y: 928
+Contour:
+Area: 33.5
+Perimeter: 27.899494767189026
+Circularity: 0.5408315188142632
+Object center position: x: 776, y: 930
+Contour:
+Area: 1.0
+Perimeter: 13.656854152679443
+Circularity: 0.06737651151184011
+Object center position: x: 563, y: 928
+Contour:
+Area: 15.0
+Perimeter: 14.828427076339722
+Circularity: 0.8572568253872993
+Object center position: x: 333, y: 929
+Contour:
+Area: 10.5
+Perimeter: 13.071067690849304
+Circularity: 0.772283996990162
+Object center position: x: 199, y: 928
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 43, y: 928
+Contour:
+Area: 51.5
+Perimeter: 34.38477599620819
+Circularity: 0.5473746672814827
+Object center position: x: 838, y: 931
+Contour:
+Area: 31.0
+Perimeter: 21.313708305358887
+Circularity: 0.8575382926580901
+Object center position: x: 662, y: 929
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 22, y: 928
+Contour:
+Area: 17.5
+Perimeter: 16.242640614509583
+Circularity: 0.8335557320298667
+Object center position: x: 983, y: 926
+Contour:
+Area: 23.5
+Perimeter: 19.071067690849304
+Circularity: 0.8119470551706076
+Object center position: x: 352, y: 927
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 700, y: 925
+Contour:
+Area: 14.5
+Perimeter: 15.071067690849304
+Circularity: 0.8022132398263994
+Object center position: x: 308, y: 924
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 155, y: 924
+Contour:
+Area: 26.0
+Perimeter: 30.97056245803833
+Circularity: 0.3406316722784552
+Object center position: x: 240, y: 925
+Contour:
+Area: 15.5
+Perimeter: 15.071067690849304
+Circularity: 0.8575382908489095
+Object center position: x: 128, y: 922
+Contour:
+Area: 17.5
+Perimeter: 17.071067690849304
+Circularity: 0.7546169289326093
+Object center position: x: 971, y: 920
+Contour:
+Area: 12.0
+Perimeter: 14.485281229019165
+Circularity: 0.7186827936802287
+Object center position: x: 860, y: 921
+Contour:
+Area: 22.0
+Perimeter: 18.485281229019165
+Circularity: 0.8090594231490545
+Object center position: x: 823, y: 921
+Contour:
+Area: 9.0
+Perimeter: 11.656854152679443
+Circularity: 0.8323186919600186
+Object center position: x: 739, y: 920
+Contour:
+Area: 11.5
+Perimeter: 13.41421353816986
+Circularity: 0.8031141418478369
+Object center position: x: 171, y: 920
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 27, y: 919
+Contour:
+Area: 6.0
+Perimeter: 9.656854152679443
+Circularity: 0.8085181428902574
+Object center position: x: 693, y: 918
+Contour:
+Area: 21.0
+Perimeter: 18.485281229019165
+Circularity: 0.7722839948240977
+Object center position: x: 435, y: 919
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 263, y: 918
+Contour:
+Area: 29.5
+Perimeter: 21.899494767189026
+Circularity: 0.7729718691710937
+Object center position: x: 198, y: 920
+Contour:
+Area: 7.0
+Perimeter: 10.485281229019165
+Circularity: 0.8001063873003664
+Object center position: x: 191, y: 917
+Contour:
+Area: 1.0
+Perimeter: 10.828427076339722
+Circularity: 0.10717145126098285
+Object center position: x: 0, y: 917
+Contour:
+Area: 21.0
+Perimeter: 17.656854152679443
+Circularity: 0.8464523193398272
+Object center position: x: 834, y: 916
+Contour:
+Area: 33.5
+Perimeter: 35.899494767189026
+Circularity: 0.32664649159531484
+Object center position: x: 30, y: 916
+Contour:
+Area: 15.5
+Perimeter: 15.071067690849304
+Circularity: 0.8575382908489095
+Object center position: x: 216, y: 915
+Contour:
+Area: 14.5
+Perimeter: 14.242640614509583
+Circularity: 0.8982491906543907
+Object center position: x: 888, y: 913
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 730, y: 913
+Contour:
+Area: 18.0
+Perimeter: 16.82842707633972
+Circularity: 0.7987213968899363
+Object center position: x: 634, y: 914
+Contour:
+Area: 24.5
+Perimeter: 19.071067690849304
+Circularity: 0.8464979936885056
+Object center position: x: 524, y: 914
+Contour:
+Area: 67.0
+Perimeter: 44.62741661071777
+Circularity: 0.42274762111358777
+Object center position: x: 850, y: 919
+Contour:
+Area: 23.0
+Perimeter: 19.313708305358887
+Circularity: 0.7748298869364966
+Object center position: x: 466, y: 913
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 97, y: 912
+Contour:
+Area: 45.0
+Perimeter: 33.31370830535889
+Circularity: 0.5095378148939818
+Object center position: x: 909, y: 911
+Contour:
+Area: 25.5
+Perimeter: 19.071067690849304
+Circularity: 0.8810489322064039
+Object center position: x: 73, y: 911
+Contour:
+Area: 21.5
+Perimeter: 18.242640614509583
+Circularity: 0.8118446236640815
+Object center position: x: 598, y: 910
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 329, y: 909
+Contour:
+Area: 16.5
+Perimeter: 15.899494767189026
+Circularity: 0.8202139662830028
+Object center position: x: 785, y: 909
+Contour:
+Area: 30.0
+Perimeter: 21.313708305358887
+Circularity: 0.8298757670884743
+Object center position: x: 272, y: 909
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 746, y: 908
+Contour:
+Area: 22.0
+Perimeter: 18.82842707633972
+Circularity: 0.7798381254407765
+Object center position: x: 564, y: 908
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 246, y: 908
+Contour:
+Area: 42.5
+Perimeter: 29.899494767189026
+Circularity: 0.597408083132902
+Object center position: x: 951, y: 910
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 257, y: 907
+Contour:
+Area: 20.0
+Perimeter: 19.313708305358887
+Circularity: 0.6737651190752144
+Object center position: x: 283, y: 907
+Contour:
+Area: 28.0
+Perimeter: 21.313708305358887
+Circularity: 0.7745507159492427
+Object center position: x: 579, y: 906
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 981, y: 903
+Contour:
+Area: 30.5
+Perimeter: 21.071067690849304
+Circularity: 0.8632500631992441
+Object center position: x: 961, y: 905
+Contour:
+Area: 14.0
+Perimeter: 14.828427076339722
+Circularity: 0.8001063703614795
+Object center position: x: 377, y: 903
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 328, y: 903
+Contour:
+Area: 23.0
+Perimeter: 18.485281229019165
+Circularity: 0.8458348514740116
+Object center position: x: 301, y: 905
+Contour:
+Area: 24.0
+Perimeter: 18.485281229019165
+Circularity: 0.8826102797989687
+Object center position: x: 841, y: 904
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 611, y: 903
+Contour:
+Area: 13.5
+Perimeter: 15.071067690849304
+Circularity: 0.746888188803889
+Object center position: x: 309, y: 903
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 134, y: 902
+Contour:
+Area: 6.0
+Perimeter: 9.656854152679443
+Circularity: 0.8085181428902574
+Object center position: x: 759, y: 901
+Contour:
+Area: 12.0
+Perimeter: 14.0
+Circularity: 0.7693696294505615
+Object center position: x: 272, y: 902
+Contour:
+Area: 8.5
+Perimeter: 13.071067690849304
+Circularity: 0.6251822832777502
+Object center position: x: 827, y: 900
+Contour:
+Area: 0.5
+Perimeter: 26.727921843528748
+Circularity: 0.008795276214706202
+Object center position: x: 995, y: 899
+Contour:
+Area: 0.5
+Perimeter: 5.414213538169861
+Circularity: 0.2143429025219657
+Object center position: x: 342, y: 898
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 729, y: 897
+Contour:
+Area: 19.5
+Perimeter: 17.899494767189026
+Circularity: 0.7648265049708362
+Object center position: x: 639, y: 898
+Contour:
+Area: 12.0
+Perimeter: 14.0
+Circularity: 0.7693696294505615
+Object center position: x: 602, y: 897
+Contour:
+Area: 9.0
+Perimeter: 12.828427076339722
+Circularity: 0.6872354501543845
+Object center position: x: 581, y: 897
+Contour:
+Area: 12.0
+Perimeter: 14.0
+Circularity: 0.7693696294505615
+Object center position: x: 247, y: 896
+Contour:
+Area: 6.5
+Perimeter: 10.242640614509583
+Circularity: 0.778573021914597
+Object center position: x: 222, y: 896
+Contour:
+Area: 15.5
+Perimeter: 15.41421353816986
+Circularity: 0.8197828337686409
+Object center position: x: 896, y: 896
+Contour:
+Area: 14.0
+Perimeter: 14.485281229019165
+Circularity: 0.8384632592936002
+Object center position: x: 130, y: 895
+Contour:
+Area: 1.0
+Perimeter: 37.79898953437805
+Circularity: 0.00879527622903423
+Object center position: x: 122, y: 897
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 737, y: 895
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 181, y: 895
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 105, y: 894
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 858, y: 893
+Contour:
+Area: 0.5
+Perimeter: 15.071067690849304
+Circularity: 0.027662525511255146
+Object center position: x: 339, y: 891
+Contour:
+Area: 4.0
+Perimeter: 11.656854152679443
+Circularity: 0.36991941864889716
+Object center position: x: 62, y: 893
+Contour:
+Area: 25.0
+Perimeter: 19.656854152679443
+Circularity: 0.8130585890050616
+Object center position: x: 991, y: 891
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 831, y: 890
+Contour:
+Area: 21.5
+Perimeter: 18.242640614509583
+Circularity: 0.8118446236640815
+Object center position: x: 798, y: 890
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 462, y: 888
+Contour:
+Area: 13.0
+Perimeter: 14.485281229019165
+Circularity: 0.7785730264869145
+Object center position: x: 673, y: 887
+Contour:
+Area: 40.5
+Perimeter: 26.38477599620819
+Circularity: 0.7310684878954152
+Object center position: x: 190, y: 890
+Contour:
+Area: 18.0
+Perimeter: 17.656854152679443
+Circularity: 0.7255305594341376
+Object center position: x: 91, y: 888
+Contour:
+Area: 14.5
+Perimeter: 15.071067690849304
+Circularity: 0.8022132398263994
+Object center position: x: 73, y: 888
+Contour:
+Area: 9.0
+Perimeter: 11.656854152679443
+Circularity: 0.8323186919600186
+Object center position: x: 745, y: 887
+Contour:
+Area: 4.5
+Perimeter: 61.69848430156708
+Circularity: 0.014855025013219423
+Object center position: x: 699, y: 889
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 531, y: 886
+Contour:
+Area: 0.5
+Perimeter: 10.242640614509583
+Circularity: 0.05989023245496899
+Object center position: x: 0, y: 888
+Contour:
+Area: 23.5
+Perimeter: 19.071067690849304
+Circularity: 0.8119470551706076
+Object center position: x: 805, y: 886
+Contour:
+Area: 13.5
+Perimeter: 53.21320307254791
+Circularity: 0.059910760147462466
+Object center position: x: 602, y: 887
+Contour:
+Area: 20.5
+Perimeter: 19.071067690849304
+Circularity: 0.7082942396169128
+Object center position: x: 26, y: 887
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 890, y: 883
+Contour:
+Area: 18.5
+Perimeter: 17.899494767189026
+Circularity: 0.7256046329210497
+Object center position: x: 782, y: 883
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 570, y: 882
+Contour:
+Area: 21.0
+Perimeter: 17.656854152679443
+Circularity: 0.8464523193398272
+Object center position: x: 168, y: 883
+Contour:
+Area: 24.5
+Perimeter: 19.071067690849304
+Circularity: 0.8464979936885056
+Object center position: x: 80, y: 883
+Contour:
+Area: 9.0
+Perimeter: 11.656854152679443
+Circularity: 0.8323186919600186
+Object center position: x: 968, y: 882
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 902, y: 881
+Contour:
+Area: 10.5
+Perimeter: 13.071067690849304
+Circularity: 0.772283996990162
+Object center position: x: 451, y: 881
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 776, y: 880
+Contour:
+Area: 1.0
+Perimeter: 8.828427076339722
+Circularity: 0.16122901320758615
+Object center position: x: 405, y: 880
+Contour:
+Area: 20.0
+Perimeter: 17.313708305358887
+Circularity: 0.8384162108653561
+Object center position: x: 352, y: 881
+Contour:
+Area: 17.0
+Perimeter: 16.485281229019165
+Circularity: 0.786078765420955
+Object center position: x: 194, y: 882
+Contour:
+Area: 1.0
+Perimeter: 23.313708305358887
+Circularity: 0.023119963665556072
+Object center position: x: 94, y: 880
+Contour:
+Area: 2.5
+Perimeter: 23.899494767189026
+Circularity: 0.05500123388721642
+Object center position: x: 908, y: 879
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 795, y: 879
+Contour:
+Area: 13.5
+Perimeter: 14.242640614509583
+Circularity: 0.8363009706092601
+Object center position: x: 20, y: 880
+Contour:
+Area: 13.5
+Perimeter: 14.242640614509583
+Circularity: 0.8363009706092601
+Object center position: x: 371, y: 878
+Contour:
+Area: 23.0
+Perimeter: 20.485281229019165
+Circularity: 0.6887376732321434
+Object center position: x: 36, y: 879
+Contour:
+Area: 17.0
+Perimeter: 15.656854152679443
+Circularity: 0.8714646463829057
+Object center position: x: 936, y: 877
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 682, y: 877
+Contour:
+Area: 11.5
+Perimeter: 13.41421353816986
+Circularity: 0.8031141418478369
+Object center position: x: 944, y: 876
+Contour:
+Area: 4.0
+Perimeter: 7.656854152679443
+Circularity: 0.8573716241035623
+Object center position: x: 498, y: 876
+Contour:
+Area: 6.0
+Perimeter: 10.828427076339722
+Circularity: 0.6430287075658971
+Object center position: x: 196, y: 876
+Contour:
+Area: 14.5
+Perimeter: 15.071067690849304
+Circularity: 0.8022132398263994
+Object center position: x: 958, y: 875
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 285, y: 875
+Contour:
+Area: 13.5
+Perimeter: 14.242640614509583
+Circularity: 0.8363009706092601
+Object center position: x: 146, y: 874
+Contour:
+Area: 12.5
+Perimeter: 17.071067690849304
+Circularity: 0.539012092094721
+Object center position: x: 730, y: 874
+Contour:
+Area: 3.5
+Perimeter: 34.38477599620819
+Circularity: 0.03720022010650853
+Object center position: x: 241, y: 873
+Contour:
+Area: 26.5
+Perimeter: 22.727921843528748
+Circularity: 0.6446682525846636
+Object center position: x: 110, y: 875
+Contour:
+Area: 9.0
+Perimeter: 12.828427076339722
+Circularity: 0.6872354501543845
+Object center position: x: 987, y: 872
+Contour:
+Area: 9.0
+Perimeter: 11.656854152679443
+Circularity: 0.8323186919600186
+Object center position: x: 978, y: 873
+Contour:
+Area: 15.0
+Perimeter: 15.313708305358887
+Circularity: 0.8037858975970896
+Object center position: x: 429, y: 873
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 299, y: 872
+Contour:
+Area: 18.5
+Perimeter: 17.899494767189026
+Circularity: 0.7256046329210497
+Object center position: x: 396, y: 870
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 249, y: 870
+Contour:
+Area: 21.5
+Perimeter: 19.071067690849304
+Circularity: 0.7428451781348111
+Object center position: x: 225, y: 871
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 207, y: 869
+Contour:
+Area: 7.5
+Perimeter: 18.242640614509583
+Circularity: 0.28320161290607493
+Object center position: x: 437, y: 870
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 723, y: 869
+Contour:
+Area: 8.5
+Perimeter: 12.242640614509583
+Circularity: 0.7126537717491253
+Object center position: x: 355, y: 868
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 124, y: 868
+Contour:
+Area: 17.0
+Perimeter: 15.656854152679443
+Circularity: 0.8714646463829057
+Object center position: x: 37, y: 867
+Contour:
+Area: 18.5
+Perimeter: 19.899494767189026
+Circularity: 0.5870802792407577
+Object center position: x: 958, y: 867
+Contour:
+Area: 17.5
+Perimeter: 17.899494767189026
+Circularity: 0.6863827608712632
+Object center position: x: 909, y: 868
+Contour:
+Area: 13.5
+Perimeter: 14.242640614509583
+Circularity: 0.8363009706092601
+Object center position: x: 858, y: 866
+Contour:
+Area: 0.5
+Perimeter: 10.242640614509583
+Circularity: 0.05989023245496899
+Object center position: x: 220, y: 865
+Contour:
+Area: 27.5
+Perimeter: 25.071067690849304
+Circularity: 0.5497900792746172
+Object center position: x: 886, y: 866
+Contour:
+Area: 19.5
+Perimeter: 17.071067690849304
+Circularity: 0.8408588636677646
+Object center position: x: 235, y: 865
+Contour:
+Area: 23.5
+Perimeter: 19.071067690849304
+Circularity: 0.8119470551706076
+Object center position: x: 395, y: 864
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 252, y: 863
+Contour:
+Area: 11.5
+Perimeter: 14.242640614509583
+Circularity: 0.7124045305189994
+Object center position: x: 950, y: 861
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 758, y: 861
+Contour:
+Area: 9.0
+Perimeter: 12.0
+Circularity: 0.7853981633974483
+Object center position: x: 23, y: 861
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 536, y: 860
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 267, y: 860
+Contour:
+Area: 13.5
+Perimeter: 14.242640614509583
+Circularity: 0.8363009706092601
+Object center position: x: 596, y: 859
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 308, y: 858
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 106, y: 859
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 326, y: 858
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 319, y: 857
+Contour:
+Area: 15.0
+Perimeter: 15.656854152679443
+Circularity: 0.7689393938672696
+Object center position: x: 296, y: 858
+Contour:
+Area: 19.0
+Perimeter: 16.82842707633972
+Circularity: 0.843094807828266
+Object center position: x: 244, y: 858
+Contour:
+Area: 23.5
+Perimeter: 19.071067690849304
+Circularity: 0.8119470551706076
+Object center position: x: 136, y: 859
+Contour:
+Area: 20.5
+Perimeter: 17.899494767189026
+Circularity: 0.8040483770206226
+Object center position: x: 700, y: 857
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 548, y: 856
+Contour:
+Area: 34.0
+Perimeter: 24.14213538169861
+Circularity: 0.7330564495538334
+Object center position: x: 479, y: 856
+Contour:
+Area: 8.0
+Perimeter: 11.313708305358887
+Circularity: 0.7853981902804831
+Object center position: x: 86, y: 855
+Contour:
+Area: 18.0
+Perimeter: 15.656854152679443
+Circularity: 0.9227272726407235
+Object center position: x: 45, y: 855
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 53, y: 853
+Contour:
+Area: 22.0
+Perimeter: 17.656854152679443
+Circularity: 0.8867595726417237
+Object center position: x: 515, y: 853
+Contour:
+Area: 16.0
+Perimeter: 18.485281229019165
+Circularity: 0.5884068531993125
+Object center position: x: 746, y: 851
+Contour:
+Area: 11.5
+Perimeter: 14.242640614509583
+Circularity: 0.7124045305189994
+Object center position: x: 498, y: 850
+Contour:
+Area: 21.0
+Perimeter: 17.656854152679443
+Circularity: 0.8464523193398272
+Object center position: x: 153, y: 851
+Contour:
+Area: 18.0
+Perimeter: 16.485281229019165
+Circularity: 0.8323186927986581
+Object center position: x: 113, y: 850
+Contour:
+Area: 7.5
+Perimeter: 11.071067690849304
+Circularity: 0.768939401168237
+Object center position: x: 604, y: 848
+Contour:
+Area: 20.5
+Perimeter: 17.899494767189026
+Circularity: 0.8040483770206226
+Object center position: x: 376, y: 849
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 429, y: 846
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 383, y: 846
+Contour:
+Area: 3.5
+Perimeter: 75.49747383594513
+Circularity: 0.007716370425239769
+Object center position: x: 781, y: 849
+Contour:
+Area: 10.5
+Perimeter: 12.242640614509583
+Circularity: 0.880337012160684
+Object center position: x: 664, y: 845
+Contour:
+Area: 10.5
+Perimeter: 13.071067690849304
+Circularity: 0.772283996990162
+Object center position: x: 143, y: 846
+Contour:
+Area: 7.0
+Perimeter: 17.313708305358887
+Circularity: 0.2934456738028746
+Object center position: x: 90, y: 846
+Contour:
+Area: 14.5
+Perimeter: 14.242640614509583
+Circularity: 0.8982491906543907
+Object center position: x: 5, y: 843
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 16, y: 842
+Contour:
+Area: 23.5
+Perimeter: 19.899494767189026
+Circularity: 0.745750624981503
+Object center position: x: 873, y: 842
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 400, y: 841
+Contour:
+Area: 13.5
+Perimeter: 14.242640614509583
+Circularity: 0.8363009706092601
+Object center position: x: 756, y: 841
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 974, y: 839
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 649, y: 840
+Contour:
+Area: 10.5
+Perimeter: 13.071067690849304
+Circularity: 0.772283996990162
+Object center position: x: 633, y: 840
+Contour:
+Area: 22.0
+Perimeter: 18.485281229019165
+Circularity: 0.8090594231490545
+Object center position: x: 829, y: 840
+Contour:
+Area: 13.5
+Perimeter: 49.21320307254791
+Circularity: 0.07004552068050628
+Object center position: x: 461, y: 842
+Contour:
+Area: 13.0
+Perimeter: 15.313708305358887
+Circularity: 0.6966144445841445
+Object center position: x: 203, y: 839
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 42, y: 837
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 542, y: 836
+Contour:
+Area: 12.5
+Perimeter: 23.55634891986847
+Circularity: 0.2830765669380997
+Object center position: x: 477, y: 838
+Contour:
+Area: 9.0
+Perimeter: 12.828427076339722
+Circularity: 0.6872354501543845
+Object center position: x: 437, y: 836
+Contour:
+Area: 14.5
+Perimeter: 15.071067690849304
+Circularity: 0.8022132398263994
+Object center position: x: 334, y: 835
+Contour:
+Area: 36.0
+Perimeter: 30.14213538169861
+Circularity: 0.49792545920259274
+Object center position: x: 171, y: 838
+Contour:
+Area: 20.0
+Perimeter: 18.485281229019165
+Circularity: 0.7355085664991405
+Object center position: x: 796, y: 834
+Contour:
+Area: 0.5
+Perimeter: 7.414213538169861
+Circularity: 0.11430091005163992
+Object center position: x: 699, y: 832
+Contour:
+Area: 20.5
+Perimeter: 17.071067690849304
+Circularity: 0.8839798310353423
+Object center position: x: 382, y: 834
+Contour:
+Area: 28.5
+Perimeter: 21.899494767189026
+Circularity: 0.7467694329280058
+Object center position: x: 316, y: 834
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 94, y: 834
+Contour:
+Area: 5.5
+Perimeter: 63.35533845424652
+Circularity: 0.017218928507530974
+Object center position: x: 610, y: 836
+Contour:
+Area: 25.0
+Perimeter: 20.485281229019165
+Circularity: 0.7486279056871125
+Object center position: x: 215, y: 832
+Contour:
+Area: 11.5
+Perimeter: 13.899494767189026
+Circularity: 0.7480139127517623
+Object center position: x: 485, y: 830
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 11, y: 830
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 838, y: 829
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 585, y: 828
+Contour:
+Area: 9.0
+Perimeter: 12.0
+Circularity: 0.7853981633974483
+Object center position: x: 346, y: 828
+Contour:
+Area: 0.5
+Perimeter: 10.242640614509583
+Circularity: 0.05989023245496899
+Object center position: x: 943, y: 826
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 620, y: 828
+Contour:
+Area: 14.5
+Perimeter: 15.071067690849304
+Circularity: 0.8022132398263994
+Object center position: x: 279, y: 827
+Contour:
+Area: 3.0
+Perimeter: 6.828427076339722
+Circularity: 0.8085181381420814
+Object center position: x: 972, y: 826
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 725, y: 826
+Contour:
+Area: 39.0
+Perimeter: 32.14213538169861
+Circularity: 0.4743785235379455
+Object center position: x: 255, y: 830
+Contour:
+Area: 10.0
+Perimeter: 12.485281229019165
+Circularity: 0.8061450759506535
+Object center position: x: 576, y: 826
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 445, y: 826
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 146, y: 825
+Contour:
+Area: 20.0
+Perimeter: 18.485281229019165
+Circularity: 0.7355085664991405
+Object center position: x: 222, y: 825
+Contour:
+Area: 5.5
+Perimeter: 9.41421353816986
+Circularity: 0.7798381254407765
+Object center position: x: 979, y: 823
+Contour:
+Area: 18.0
+Perimeter: 16.485281229019165
+Circularity: 0.8323186927986581
+Object center position: x: 78, y: 824
+Contour:
+Area: 23.0
+Perimeter: 20.485281229019165
+Circularity: 0.6887376732321434
+Object center position: x: 884, y: 823
+Contour:
+Area: 9.0
+Perimeter: 12.0
+Circularity: 0.7853981633974483
+Object center position: x: 343, y: 822
+Contour:
+Area: 3.5
+Perimeter: 7.414213538169861
+Circularity: 0.8001063703614795
+Object center position: x: 23, y: 822
+Contour:
+Area: 19.0
+Perimeter: 17.656854152679443
+Circularity: 0.7658378127360341
+Object center position: x: 273, y: 822
+Contour:
+Area: 0.5
+Perimeter: 14.242640614509583
+Circularity: 0.030974110022565192
+Object center position: x: 869, y: 819
+Contour:
+Area: 14.0
+Perimeter: 14.828427076339722
+Circularity: 0.8001063703614795
+Object center position: x: 357, y: 820
+Contour:
+Area: 36.5
+Perimeter: 25.899494767189026
+Circularity: 0.683785904579888
+Object center position: x: 204, y: 822
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 953, y: 819
+Contour:
+Area: 31.0
+Perimeter: 31.79898953437805
+Circularity: 0.3852520144662589
+Object center position: x: 710, y: 820
+Contour:
+Area: 0.5
+Perimeter: 10.242640614509583
+Circularity: 0.05989023245496899
+Object center position: x: 577, y: 818
+Contour:
+Area: 1.0
+Perimeter: 12.828427076339722
+Circularity: 0.07635949446159827
+Object center position: x: 387, y: 819
+Contour:
+Area: 14.0
+Perimeter: 15.313708305358887
+Circularity: 0.750200171090617
+Object center position: x: 369, y: 820
+Contour:
+Area: 5.5
+Perimeter: 9.071067690849304
+Circularity: 0.8399544551501442
+Object center position: x: 223, y: 819
+Contour:
+Area: 22.0
+Perimeter: 19.313708305358887
+Circularity: 0.7411416309827358
+Object center position: x: 259, y: 820
+Contour:
+Area: 25.5
+Perimeter: 19.899494767189026
+Circularity: 0.8092187632778012
+Object center position: x: 318, y: 819
+Contour:
+Area: 24.0
+Perimeter: 40.62741661071777
+Circularity: 0.18271857122029314
+Object center position: x: 538, y: 819
+Contour:
+Area: 11.5
+Perimeter: 13.41421353816986
+Circularity: 0.8031141418478369
+Object center position: x: 340, y: 814
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 795, y: 814
+Contour:
+Area: 18.5
+Perimeter: 16.242640614509583
+Circularity: 0.881187488145859
+Object center position: x: 426, y: 814
+Contour:
+Area: 11.5
+Perimeter: 13.41421353816986
+Circularity: 0.8031141418478369
+Object center position: x: 130, y: 813
+Contour:
+Area: 13.5
+Perimeter: 15.071067690849304
+Circularity: 0.746888188803889
+Object center position: x: 733, y: 813
+Contour:
+Area: 24.5
+Perimeter: 19.899494767189026
+Circularity: 0.777484694129652
+Object center position: x: 461, y: 813
+Contour:
+Area: 19.5
+Perimeter: 17.899494767189026
+Circularity: 0.7648265049708362
+Object center position: x: 24, y: 814
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 724, y: 812
+Contour:
+Area: 8.0
+Perimeter: 10.828427076339722
+Circularity: 0.8573716100878628
+Object center position: x: 35, y: 811
+Contour:
+Area: 6.0
+Perimeter: 9.656854152679443
+Circularity: 0.8085181428902574
+Object center position: x: 281, y: 810
+Contour:
+Area: 15.5
+Perimeter: 15.071067690849304
+Circularity: 0.8575382908489095
+Object center position: x: 917, y: 806
+Contour:
+Area: 24.5
+Perimeter: 19.899494767189026
+Circularity: 0.777484694129652
+Object center position: x: 514, y: 808
+Contour:
+Area: 10.0
+Perimeter: 13.656854152679443
+Circularity: 0.6737651151184011
+Object center position: x: 430, y: 806
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 367, y: 806
+Contour:
+Area: 14.5
+Perimeter: 74.18376553058624
+Circularity: 0.03311007145563935
+Object center position: x: 136, y: 809
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 70, y: 805
+Contour:
+Area: 4.5
+Perimeter: 8.242640614509583
+Circularity: 0.8323186927986581
+Object center position: x: 838, y: 804
+Contour:
+Area: 0.5
+Perimeter: 10.242640614509583
+Circularity: 0.05989023245496899
+Object center position: x: 260, y: 803
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 65, y: 805
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 4, y: 803
+Contour:
+Area: 16.5
+Perimeter: 17.071067690849304
+Circularity: 0.7114959615650317
+Object center position: x: 806, y: 804
+Contour:
+Area: 18.5
+Perimeter: 17.071067690849304
+Circularity: 0.797737896300187
+Object center position: x: 763, y: 804
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 719, y: 804
+Contour:
+Area: 70.0
+Perimeter: 48.62741661071777
+Circularity: 0.3720022001819741
+Object center position: x: 643, y: 808
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 833, y: 801
+Contour:
+Area: 23.0
+Perimeter: 18.485281229019165
+Circularity: 0.8458348514740116
+Object center position: x: 753, y: 802
+Contour:
+Area: 8.0
+Perimeter: 10.828427076339722
+Circularity: 0.8573716100878628
+Object center position: x: 290, y: 800
+Contour:
+Area: 17.0
+Perimeter: 17.313708305358887
+Circularity: 0.7126537792355527
+Object center position: x: 906, y: 800
+Contour:
+Area: 18.5
+Perimeter: 17.071067690849304
+Circularity: 0.797737896300187
+Object center position: x: 772, y: 799
+Contour:
+Area: 20.5
+Perimeter: 17.899494767189026
+Circularity: 0.8040483770206226
+Object center position: x: 746, y: 800
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 710, y: 799
+Contour:
+Area: 0.5
+Perimeter: 3.414213538169861
+Circularity: 0.5390120920947209
+Object center position: x: 695, y: 797
+Contour:
+Area: 11.0
+Perimeter: 14.828427076339722
+Circularity: 0.6286550052840195
+Object center position: x: 326, y: 799
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 230, y: 798
+Contour:
+Area: 40.0
+Perimeter: 27.313708305358887
+Circularity: 0.6737651151184011
+Object center position: x: 601, y: 800
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 303, y: 798
+Contour:
+Area: 0.5
+Perimeter: 8.242640614509583
+Circularity: 0.09247985475540646
+Object center position: x: 243, y: 797
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 5, y: 797
+Contour:
+Area: 11.0
+Perimeter: 19.313708305358887
+Circularity: 0.3705708154913679
+Object center position: x: 855, y: 795
+Contour:
+Area: 2.0
+Perimeter: 34.14213538169861
+Circularity: 0.021560483683788836
+Object center position: x: 570, y: 797
+Contour:
+Area: 11.0
+Perimeter: 14.828427076339722
+Circularity: 0.6286550052840195
+Object center position: x: 190, y: 796
+Contour:
+Area: 33.0
+Perimeter: 22.485281229019165
+Circularity: 0.8202139593974218
+Object center position: x: 792, y: 795
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 357, y: 793
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 173, y: 793
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 438, y: 792
+Contour:
+Area: 3.0
+Perimeter: 6.828427076339722
+Circularity: 0.8085181381420814
+Object center position: x: 841, y: 791
+Contour:
+Area: 7.5
+Perimeter: 11.41421353816986
+Circularity: 0.7234010606573869
+Object center position: x: 584, y: 790
+Contour:
+Area: 36.0
+Perimeter: 27.313708305358887
+Circularity: 0.606388603606561
+Object center position: x: 500, y: 793
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 65, y: 791
+Contour:
+Area: 7.5
+Perimeter: 11.071067690849304
+Circularity: 0.768939401168237
+Object center position: x: 665, y: 791
+Contour:
+Area: 15.5
+Perimeter: 15.899494767189026
+Circularity: 0.7705040289325178
+Object center position: x: 186, y: 791
+Contour:
+Area: 9.0
+Perimeter: 12.485281229019165
+Circularity: 0.7255305683555883
+Object center position: x: 376, y: 790
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 323, y: 789
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 48, y: 789
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 949, y: 788
+Contour:
+Area: 25.5
+Perimeter: 19.899494767189026
+Circularity: 0.8092187632778012
+Object center position: x: 619, y: 789
+Contour:
+Area: 20.5
+Perimeter: 17.899494767189026
+Circularity: 0.8040483770206226
+Object center position: x: 651, y: 788
+Contour:
+Area: 17.0
+Perimeter: 16.485281229019165
+Circularity: 0.786078765420955
+Object center position: x: 136, y: 788
+Contour:
+Area: 3.5
+Perimeter: 7.414213538169861
+Circularity: 0.8001063703614795
+Object center position: x: 987, y: 786
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 632, y: 786
+Contour:
+Area: 17.0
+Perimeter: 16.82842707633972
+Circularity: 0.7543479859516065
+Object center position: x: 246, y: 787
+Contour:
+Area: 28.0
+Perimeter: 20.485281229019165
+Circularity: 0.8384632543695658
+Object center position: x: 779, y: 785
+Contour:
+Area: 45.5
+Perimeter: 34.38477599620819
+Circularity: 0.48360286138461084
+Object center position: x: 741, y: 789
+Contour:
+Area: 28.5
+Perimeter: 21.071067690849304
+Circularity: 0.8066435016779822
+Object center position: x: 546, y: 786
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 957, y: 784
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 820, y: 782
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 482, y: 782
+Contour:
+Area: 6.0
+Perimeter: 9.656854152679443
+Circularity: 0.8085181428902574
+Object center position: x: 187, y: 782
+Contour:
+Area: 1.0
+Perimeter: 21.656854152679443
+Circularity: 0.026792862815245712
+Object center position: x: 41, y: 781
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 854, y: 781
+Contour:
+Area: 27.5
+Perimeter: 20.242640614509583
+Circularity: 0.8433507360876418
+Object center position: x: 566, y: 782
+Contour:
+Area: 19.5
+Perimeter: 18.242640614509583
+Circularity: 0.7363241935557948
+Object center position: x: 384, y: 782
+Contour:
+Area: 3.0
+Perimeter: 6.828427076339722
+Circularity: 0.8085181381420814
+Object center position: x: 281, y: 781
+Contour:
+Area: 10.5
+Perimeter: 12.242640614509583
+Circularity: 0.880337012160684
+Object center position: x: 866, y: 780
+Contour:
+Area: 27.5
+Perimeter: 20.727921843528748
+Circularity: 0.8043240098054562
+Object center position: x: 981, y: 780
+Contour:
+Area: 6.5
+Perimeter: 10.242640614509583
+Circularity: 0.778573021914597
+Object center position: x: 412, y: 778
+Contour:
+Area: 27.5
+Perimeter: 51.69848430156708
+Circularity: 0.1292965499400339
+Object center position: x: 152, y: 780
+Contour:
+Area: 17.0
+Perimeter: 43.79898953437805
+Circularity: 0.11136035403312368
+Object center position: x: 844, y: 783
+Contour:
+Area: 2.0
+Perimeter: 23.313708305358887
+Circularity: 0.046239927331112145
+Object center position: x: 505, y: 778
+Contour:
+Area: 25.0
+Perimeter: 19.656854152679443
+Circularity: 0.8130585890050616
+Object center position: x: 135, y: 779
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 787, y: 776
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 249, y: 777
+Contour:
+Area: 31.5
+Perimeter: 21.899494767189026
+Circularity: 0.8253767416572696
+Object center position: x: 941, y: 777
+Contour:
+Area: 19.0
+Perimeter: 17.313708305358887
+Circularity: 0.7964954003220882
+Object center position: x: 885, y: 777
+Contour:
+Area: 5.5
+Perimeter: 9.41421353816986
+Circularity: 0.7798381254407765
+Object center position: x: 596, y: 775
+Contour:
+Area: 13.0
+Perimeter: 13.656854152679443
+Circularity: 0.8758946496539216
+Object center position: x: 211, y: 775
+Contour:
+Area: 17.0
+Perimeter: 15.656854152679443
+Circularity: 0.8714646463829057
+Object center position: x: 915, y: 774
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 556, y: 773
+Contour:
+Area: 17.5
+Perimeter: 17.071067690849304
+Circularity: 0.7546169289326093
+Object center position: x: 481, y: 774
+Contour:
+Area: 13.0
+Perimeter: 13.656854152679443
+Circularity: 0.8758946496539216
+Object center position: x: 927, y: 773
+Contour:
+Area: 8.0
+Perimeter: 12.0
+Circularity: 0.6981317007977318
+Object center position: x: 463, y: 772
+Contour:
+Area: 0.5
+Perimeter: 18.727921843528748
+Circularity: 0.017914335021125636
+Object center position: x: 158, y: 772
+Contour:
+Area: 1.0
+Perimeter: 17.656854152679443
+Circularity: 0.04030725330189654
+Object center position: x: 168, y: 771
+Contour:
+Area: 15.0
+Perimeter: 14.828427076339722
+Circularity: 0.8572568253872993
+Object center position: x: 217, y: 771
+Contour:
+Area: 0.5
+Perimeter: 5.414213538169861
+Circularity: 0.2143429025219657
+Object center position: x: 762, y: 769
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 339, y: 769
+Contour:
+Area: 8.0
+Perimeter: 10.828427076339722
+Circularity: 0.8573716100878628
+Object center position: x: 662, y: 768
+Contour:
+Area: 14.5
+Perimeter: 17.899494767189026
+Circularity: 0.5687171447219038
+Object center position: x: 799, y: 768
+Contour:
+Area: 31.0
+Perimeter: 26.14213538169861
+Circularity: 0.5700191406355957
+Object center position: x: 756, y: 768
+Contour:
+Area: 24.0
+Perimeter: 19.656854152679443
+Circularity: 0.7805362454448591
+Object center position: x: 716, y: 769
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 987, y: 766
+Contour:
+Area: 9.0
+Perimeter: 12.0
+Circularity: 0.7853981633974483
+Object center position: x: 674, y: 766
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 47, y: 766
+Contour:
+Area: 15.5
+Perimeter: 16.242640614509583
+Circularity: 0.7382922197978818
+Object center position: x: 688, y: 766
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 888, y: 764
+Contour:
+Area: 15.5
+Perimeter: 16.242640614509583
+Circularity: 0.7382922197978818
+Object center position: x: 270, y: 765
+Contour:
+Area: 39.5
+Perimeter: 30.727921843528748
+Circularity: 0.5257031515491722
+Object center position: x: 230, y: 766
+Contour:
+Area: 0.5
+Perimeter: 7.414213538169861
+Circularity: 0.11430091005163992
+Object center position: x: 198, y: 763
+Contour:
+Area: 18.5
+Perimeter: 17.071067690849304
+Circularity: 0.797737896300187
+Object center position: x: 78, y: 765
+Contour:
+Area: 22.5
+Perimeter: 19.071067690849304
+Circularity: 0.7773961166527094
+Object center position: x: 58, y: 765
+Contour:
+Area: 8.0
+Perimeter: 10.828427076339722
+Circularity: 0.8573716100878628
+Object center position: x: 750, y: 761
+Contour:
+Area: 16.0
+Perimeter: 24.485281229019165
+Circularity: 0.3353664808231177
+Object center position: x: 587, y: 763
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 650, y: 760
+Contour:
+Area: 6.0
+Perimeter: 9.656854152679443
+Circularity: 0.8085181428902574
+Object center position: x: 511, y: 759
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 286, y: 760
+Contour:
+Area: 18.0
+Perimeter: 18.485281229019165
+Circularity: 0.6619577098492265
+Object center position: x: 104, y: 760
+Contour:
+Area: 26.5
+Perimeter: 28.727921843528748
+Circularity: 0.40350350987171835
+Object center position: x: 303, y: 759
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 908, y: 755
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 173, y: 755
+Contour:
+Area: 22.5
+Perimeter: 19.071067690849304
+Circularity: 0.7773961166527094
+Object center position: x: 165, y: 756
+Contour:
+Area: 45.0
+Perimeter: 32.14213538169861
+Circularity: 0.5473598348514757
+Object center position: x: 91, y: 757
+Contour:
+Area: 21.5
+Perimeter: 18.242640614509583
+Circularity: 0.8118446236640815
+Object center position: x: 868, y: 753
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 729, y: 753
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 136, y: 752
+Contour:
+Area: 26.5
+Perimeter: 19.899494767189026
+Circularity: 0.8409528324259502
+Object center position: x: 960, y: 752
+Contour:
+Area: 33.0
+Perimeter: 22.485281229019165
+Circularity: 0.8202139593974218
+Object center position: x: 77, y: 752
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 182, y: 751
+Contour:
+Area: 22.0
+Perimeter: 18.485281229019165
+Circularity: 0.8090594231490545
+Object center position: x: 9, y: 752
+Contour:
+Area: 2.5
+Perimeter: 47.69848430156708
+Circularity: 0.013808315930690283
+Object center position: x: 991, y: 753
+Contour:
+Area: 18.5
+Perimeter: 16.242640614509583
+Circularity: 0.881187488145859
+Object center position: x: 366, y: 749
+Contour:
+Area: 1.0
+Perimeter: 8.828427076339722
+Circularity: 0.16122901320758615
+Object center position: x: 665, y: 748
+Contour:
+Area: 60.5
+Perimeter: 41.21320307254791
+Circularity: 0.4476024970161673
+Object center position: x: 326, y: 750
+Contour:
+Area: 27.5
+Perimeter: 19.899494767189026
+Circularity: 0.8726869015740993
+Object center position: x: 515, y: 748
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 938, y: 747
+Contour:
+Area: 19.0
+Perimeter: 17.656854152679443
+Circularity: 0.7658378127360341
+Object center position: x: 337, y: 747
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 263, y: 747
+Contour:
+Area: 26.5
+Perimeter: 19.071067690849304
+Circularity: 0.9155998707243022
+Object center position: x: 98, y: 748
+Contour:
+Area: 17.5
+Perimeter: 17.071067690849304
+Circularity: 0.7546169289326093
+Object center position: x: 65, y: 747
+Contour:
+Area: 17.5
+Perimeter: 17.071067690849304
+Circularity: 0.7546169289326093
+Object center position: x: 493, y: 746
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 798, y: 745
+Contour:
+Area: 2.0
+Perimeter: 21.656854152679443
+Circularity: 0.053585725630491424
+Object center position: x: 398, y: 743
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 842, y: 742
+Contour:
+Area: 28.0
+Perimeter: 20.485281229019165
+Circularity: 0.8384632543695658
+Object center position: x: 606, y: 744
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 779, y: 741
+Contour:
+Area: 5.5
+Perimeter: 32.38477599620819
+Circularity: 0.06590081092152886
+Object center position: x: 542, y: 742
+Contour:
+Area: 0.5
+Perimeter: 15.071067690849304
+Circularity: 0.027662525511255146
+Object center position: x: 246, y: 739
+Contour:
+Area: 30.0
+Perimeter: 20.485281229019165
+Circularity: 0.8983534868245348
+Object center position: x: 228, y: 742
+Contour:
+Area: 26.0
+Perimeter: 20.485281229019165
+Circularity: 0.778573021914597
+Object center position: x: 163, y: 739
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 24, y: 739
+Contour:
+Area: 19.0
+Perimeter: 16.485281229019165
+Circularity: 0.8785586201763613
+Object center position: x: 13, y: 739
+Contour:
+Area: 17.0
+Perimeter: 16.485281229019165
+Circularity: 0.786078765420955
+Object center position: x: 409, y: 738
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 869, y: 736
+Contour:
+Area: 22.5
+Perimeter: 22.242640614509583
+Circularity: 0.5715045502581996
+Object center position: x: 992, y: 735
+Contour:
+Area: 13.0
+Perimeter: 32.14213538169861
+Circularity: 0.15812617451264852
+Object center position: x: 686, y: 736
+Contour:
+Area: 4.5
+Perimeter: 9.41421353816986
+Circularity: 0.6380493753606353
+Object center position: x: 127, y: 731
+Contour:
+Area: 10.5
+Perimeter: 13.071067690849304
+Circularity: 0.772283996990162
+Object center position: x: 374, y: 730
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 233, y: 731
+Contour:
+Area: 23.5
+Perimeter: 19.899494767189026
+Circularity: 0.745750624981503
+Object center position: x: 43, y: 732
+Contour:
+Area: 16.5
+Perimeter: 17.071067690849304
+Circularity: 0.7114959615650317
+Object center position: x: 612, y: 728
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 499, y: 727
+Contour:
+Area: 5.5
+Perimeter: 9.41421353816986
+Circularity: 0.7798381254407765
+Object center position: x: 969, y: 726
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 553, y: 726
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 408, y: 727
+Contour:
+Area: 18.5
+Perimeter: 17.071067690849304
+Circularity: 0.797737896300187
+Object center position: x: 203, y: 727
+Contour:
+Area: 10.0
+Perimeter: 12.485281229019165
+Circularity: 0.8061450759506535
+Object center position: x: 937, y: 726
+Contour:
+Area: 21.0
+Perimeter: 19.313708305358887
+Circularity: 0.7074533750289752
+Object center position: x: 672, y: 727
+Contour:
+Area: 25.5
+Perimeter: 30.727921843528748
+Circularity: 0.33937798391149093
+Object center position: x: 353, y: 728
+Contour:
+Area: 19.0
+Perimeter: 16.82842707633972
+Circularity: 0.843094807828266
+Object center position: x: 132, y: 726
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 699, y: 724
+Contour:
+Area: 2.5
+Perimeter: 22.727921843528748
+Circularity: 0.06081775967779846
+Object center position: x: 686, y: 726
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 632, y: 724
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 466, y: 723
+Contour:
+Area: 27.0
+Perimeter: 20.485281229019165
+Circularity: 0.8085181381420813
+Object center position: x: 101, y: 724
+Contour:
+Area: 23.5
+Perimeter: 19.899494767189026
+Circularity: 0.745750624981503
+Object center position: x: 177, y: 722
+Contour:
+Area: 9.0
+Perimeter: 12.0
+Circularity: 0.7853981633974483
+Object center position: x: 24, y: 720
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 707, y: 719
+Contour:
+Area: 24.5
+Perimeter: 19.899494767189026
+Circularity: 0.777484694129652
+Object center position: x: 326, y: 721
+Contour:
+Area: 0.5
+Perimeter: 9.41421353816986
+Circularity: 0.0708943750400706
+Object center position: x: 763, y: 716
+Contour:
+Area: 21.0
+Perimeter: 18.485281229019165
+Circularity: 0.7722839948240977
+Object center position: x: 638, y: 718
+Contour:
+Area: 24.5
+Perimeter: 21.071067690849304
+Circularity: 0.6934303786354583
+Object center position: x: 136, y: 719
+Contour:
+Area: 17.5
+Perimeter: 16.242640614509583
+Circularity: 0.8335557320298667
+Object center position: x: 690, y: 717
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 715, y: 715
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 409, y: 715
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 210, y: 715
+Contour:
+Area: 9.0
+Perimeter: 12.0
+Circularity: 0.7853981633974483
+Object center position: x: 464, y: 714
+Contour:
+Area: 17.0
+Perimeter: 16.485281229019165
+Circularity: 0.786078765420955
+Object center position: x: 247, y: 715
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 876, y: 714
+Contour:
+Area: 24.5
+Perimeter: 19.899494767189026
+Circularity: 0.777484694129652
+Object center position: x: 189, y: 715
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 101, y: 713
+Contour:
+Area: 14.0
+Perimeter: 14.828427076339722
+Circularity: 0.8001063703614795
+Object center position: x: 832, y: 712
+Contour:
+Area: 0.5
+Perimeter: 17.071067690849304
+Circularity: 0.021560483683788836
+Object center position: x: 725, y: 712
+Contour:
+Area: 14.5
+Perimeter: 15.071067690849304
+Circularity: 0.8022132398263994
+Object center position: x: 503, y: 711
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 800, y: 710
+Contour:
+Area: 6.5
+Perimeter: 10.242640614509583
+Circularity: 0.778573021914597
+Object center position: x: 434, y: 710
+Contour:
+Area: 13.0
+Perimeter: 13.656854152679443
+Circularity: 0.8758946496539216
+Object center position: x: 523, y: 710
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 402, y: 708
+Contour:
+Area: 18.0
+Perimeter: 17.656854152679443
+Circularity: 0.7255305594341376
+Object center position: x: 564, y: 707
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 431, y: 706
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 422, y: 707
+Contour:
+Area: 24.0
+Perimeter: 19.313708305358887
+Circularity: 0.8085181428902574
+Object center position: x: 274, y: 708
+Contour:
+Area: 3.5
+Perimeter: 7.414213538169861
+Circularity: 0.8001063703614795
+Object center position: x: 197, y: 705
+Contour:
+Area: 3.5
+Perimeter: 47.69848430156708
+Circularity: 0.019331642302966398
+Object center position: x: 663, y: 707
+Contour:
+Area: 15.5
+Perimeter: 15.899494767189026
+Circularity: 0.7705040289325178
+Object center position: x: 574, y: 705
+Contour:
+Area: 27.5
+Perimeter: 21.899494767189026
+Circularity: 0.720566996684918
+Object center position: x: 135, y: 705
+Contour:
+Area: 1.5
+Perimeter: 37.21320307254791
+Circularity: 0.013611532275104981
+Object center position: x: 3, y: 709
+Contour:
+Area: 0.5
+Perimeter: 5.414213538169861
+Circularity: 0.2143429025219657
+Object center position: x: 923, y: 703
+Contour:
+Area: 1.5
+Perimeter: 20.727921843528748
+Circularity: 0.04387221871666124
+Object center position: x: 642, y: 703
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 330, y: 703
+Contour:
+Area: 3.0
+Perimeter: 6.828427076339722
+Circularity: 0.8085181381420814
+Object center position: x: 734, y: 701
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 482, y: 701
+Contour:
+Area: 5.0
+Perimeter: 56.97056245803833
+Circularity: 0.01935881876410325
+Object center position: x: 766, y: 703
+Contour:
+Area: 12.0
+Perimeter: 14.828427076339722
+Circularity: 0.6858054603098395
+Object center position: x: 620, y: 700
+Contour:
+Area: 23.5
+Perimeter: 46.870057225227356
+Circularity: 0.13442707804749351
+Object center position: x: 298, y: 701
+Contour:
+Area: 3.5
+Perimeter: 7.414213538169861
+Circularity: 0.8001063703614795
+Object center position: x: 958, y: 699
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 610, y: 700
+Contour:
+Area: 23.5
+Perimeter: 18.242640614509583
+Circularity: 0.8873650537723682
+Object center position: x: 272, y: 700
+Contour:
+Area: 1.0
+Perimeter: 24.97056245803833
+Circularity: 0.02015362689876634
+Object center position: x: 671, y: 697
+Contour:
+Area: 9.0
+Perimeter: 12.0
+Circularity: 0.7853981633974483
+Object center position: x: 651, y: 697
+Contour:
+Area: 49.0
+Perimeter: 35.79898953437805
+Circularity: 0.48046793260988424
+Object center position: x: 599, y: 698
+Contour:
+Area: 23.0
+Perimeter: 18.485281229019165
+Circularity: 0.8458348514740116
+Object center position: x: 383, y: 698
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 989, y: 696
+Contour:
+Area: 0.5
+Perimeter: 18.727921843528748
+Circularity: 0.017914335021125636
+Object center position: x: 839, y: 695
+Contour:
+Area: 0.5
+Perimeter: 15.41421353816986
+Circularity: 0.0264446075409239
+Object center position: x: 673, y: 695
+Contour:
+Area: 1.5
+Perimeter: 32.38477599620819
+Circularity: 0.017972948433144238
+Object center position: x: 584, y: 697
+Contour:
+Area: 10.5
+Perimeter: 13.071067690849304
+Circularity: 0.772283996990162
+Object center position: x: 784, y: 696
+Contour:
+Area: 21.0
+Perimeter: 17.656854152679443
+Circularity: 0.8464523193398272
+Object center position: x: 537, y: 696
+Contour:
+Area: 3.5
+Perimeter: 7.414213538169861
+Circularity: 0.8001063703614795
+Object center position: x: 270, y: 694
+Contour:
+Area: 15.5
+Perimeter: 15.899494767189026
+Circularity: 0.7705040289325178
+Object center position: x: 952, y: 695
+Contour:
+Area: 9.0
+Perimeter: 12.485281229019165
+Circularity: 0.7255305683555883
+Object center position: x: 398, y: 695
+Contour:
+Area: 0.5
+Perimeter: 7.414213538169861
+Circularity: 0.11430091005163992
+Object center position: x: 773, y: 693
+Contour:
+Area: 0.5
+Perimeter: 5.414213538169861
+Circularity: 0.2143429025219657
+Object center position: x: 680, y: 692
+Contour:
+Area: 18.5
+Perimeter: 27.55634891986847
+Circularity: 0.3061528044660813
+Object center position: x: 797, y: 691
+Contour:
+Area: 18.5
+Perimeter: 16.242640614509583
+Circularity: 0.881187488145859
+Object center position: x: 191, y: 690
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 185, y: 689
+Contour:
+Area: 1.5
+Perimeter: 25.55634891986847
+Circularity: 0.02886047703442237
+Object center position: x: 679, y: 689
+Contour:
+Area: 22.0
+Perimeter: 18.485281229019165
+Circularity: 0.8090594231490545
+Object center position: x: 634, y: 689
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 512, y: 687
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 346, y: 687
+Contour:
+Area: 21.5
+Perimeter: 17.899494767189026
+Circularity: 0.843270249070409
+Object center position: x: 980, y: 687
+Contour:
+Area: 3.0
+Perimeter: 6.828427076339722
+Circularity: 0.8085181381420814
+Object center position: x: 787, y: 685
+Contour:
+Area: 6.5
+Perimeter: 10.242640614509583
+Circularity: 0.778573021914597
+Object center position: x: 670, y: 684
+Contour:
+Area: 13.0
+Perimeter: 13.656854152679443
+Circularity: 0.8758946496539216
+Object center position: x: 430, y: 685
+Contour:
+Area: 23.0
+Perimeter: 17.656854152679443
+Circularity: 0.9270668259436202
+Object center position: x: 909, y: 684
+Contour:
+Area: 26.0
+Perimeter: 20.485281229019165
+Circularity: 0.778573021914597
+Object center position: x: 884, y: 685
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 145, y: 683
+Contour:
+Area: 18.0
+Perimeter: 16.485281229019165
+Circularity: 0.8323186927986581
+Object center position: x: 727, y: 683
+Contour:
+Area: 21.5
+Perimeter: 17.899494767189026
+Circularity: 0.843270249070409
+Object center position: x: 646, y: 683
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 614, y: 682
+Contour:
+Area: 4.0
+Perimeter: 7.656854152679443
+Circularity: 0.8573716241035623
+Object center position: x: 279, y: 682
+Contour:
+Area: 9.0
+Perimeter: 12.0
+Circularity: 0.7853981633974483
+Object center position: x: 263, y: 682
+Contour:
+Area: 16.5
+Perimeter: 17.071067690849304
+Circularity: 0.7114959615650317
+Object center position: x: 715, y: 683
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 540, y: 680
+Contour:
+Area: 1.5
+Perimeter: 30.727921843528748
+Circularity: 0.019963410818322997
+Object center position: x: 817, y: 681
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 354, y: 679
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 381, y: 677
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 321, y: 677
+Contour:
+Area: 6.0
+Perimeter: 22.485281229019165
+Circularity: 0.14912981079953122
+Object center position: x: 194, y: 677
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 766, y: 676
+Contour:
+Area: 12.0
+Perimeter: 14.485281229019165
+Circularity: 0.7186827936802287
+Object center position: x: 705, y: 677
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 989, y: 675
+Contour:
+Area: 15.5
+Perimeter: 15.41421353816986
+Circularity: 0.8197828337686409
+Object center position: x: 156, y: 675
+Contour:
+Area: 33.5
+Perimeter: 29.55634891986847
+Circularity: 0.4818957557609926
+Object center position: x: 975, y: 673
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 612, y: 674
+Contour:
+Area: 8.0
+Perimeter: 11.656854152679443
+Circularity: 0.7398388372977943
+Object center position: x: 314, y: 672
+Contour:
+Area: 23.0
+Perimeter: 18.485281229019165
+Circularity: 0.8458348514740116
+Object center position: x: 41, y: 673
+Contour:
+Area: 17.5
+Perimeter: 17.071067690849304
+Circularity: 0.7546169289326093
+Object center position: x: 917, y: 671
+Contour:
+Area: 1.0
+Perimeter: 10.828427076339722
+Circularity: 0.10717145126098285
+Object center position: x: 843, y: 669
+Contour:
+Area: 15.0
+Perimeter: 14.828427076339722
+Circularity: 0.8572568253872993
+Object center position: x: 28, y: 671
+Contour:
+Area: 15.5
+Perimeter: 15.071067690849304
+Circularity: 0.8575382908489095
+Object center position: x: 772, y: 669
+Contour:
+Area: 10.5
+Perimeter: 12.242640614509583
+Circularity: 0.880337012160684
+Object center position: x: 698, y: 669
+Contour:
+Area: 27.5
+Perimeter: 25.899494767189026
+Circularity: 0.5151811609848471
+Object center position: x: 754, y: 666
+Contour:
+Area: 0.5
+Perimeter: 15.899494767189026
+Circularity: 0.02485496867524251
+Object center position: x: 615, y: 667
+Contour:
+Area: 15.0
+Perimeter: 15.656854152679443
+Circularity: 0.7689393938672696
+Object center position: x: 568, y: 667
+Contour:
+Area: 15.0
+Perimeter: 14.485281229019165
+Circularity: 0.8983534921002858
+Object center position: x: 2, y: 667
+Contour:
+Area: 18.0
+Perimeter: 16.82842707633972
+Circularity: 0.7987213968899363
+Object center position: x: 944, y: 666
+Contour:
+Area: 15.5
+Perimeter: 15.41421353816986
+Circularity: 0.8197828337686409
+Object center position: x: 656, y: 666
+Contour:
+Area: 30.5
+Perimeter: 21.899494767189026
+Circularity: 0.7991743054141817
+Object center position: x: 627, y: 667
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 423, y: 665
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 397, y: 665
+Contour:
+Area: 10.5
+Perimeter: 13.071067690849304
+Circularity: 0.772283996990162
+Object center position: x: 330, y: 665
+Contour:
+Area: 1.5
+Perimeter: 38.38477599620819
+Circularity: 0.012793315256951866
+Object center position: x: 682, y: 665
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 414, y: 664
+Contour:
+Area: 9.0
+Perimeter: 12.0
+Circularity: 0.7853981633974483
+Object center position: x: 25, y: 664
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 934, y: 664
+Contour:
+Area: 2.5
+Perimeter: 26.727921843528748
+Circularity: 0.04397638107353101
+Object center position: x: 100, y: 663
+Contour:
+Area: 6.5
+Perimeter: 44.041630148887634
+Circularity: 0.0421110867873856
+Object center position: x: 555, y: 664
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 511, y: 662
+Contour:
+Area: 5.0
+Perimeter: 11.656854152679443
+Circularity: 0.46239927331112146
+Object center position: x: 166, y: 661
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 280, y: 661
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 837, y: 661
+Contour:
+Area: 1.5
+Perimeter: 25.55634891986847
+Circularity: 0.02886047703442237
+Object center position: x: 751, y: 661
+Contour:
+Area: 1.0
+Perimeter: 25.656854152679443
+Circularity: 0.01908987361539957
+Object center position: x: 678, y: 661
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 183, y: 660
+Contour:
+Area: 1.0
+Perimeter: 32.62741661071777
+Circularity: 0.01180441548867259
+Object center position: x: 741, y: 662
+Contour:
+Area: 23.0
+Perimeter: 17.656854152679443
+Circularity: 0.9270668259436202
+Object center position: x: 724, y: 660
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 866, y: 659
+Contour:
+Area: 24.0
+Perimeter: 19.656854152679443
+Circularity: 0.7805362454448591
+Object center position: x: 153, y: 659
+Contour:
+Area: 1.0
+Perimeter: 16.485281229019165
+Circularity: 0.04623992737770323
+Object center position: x: 708, y: 658
+Contour:
+Area: 21.0
+Perimeter: 18.485281229019165
+Circularity: 0.7722839948240977
+Object center position: x: 645, y: 658
+Contour:
+Area: 3.5
+Perimeter: 7.414213538169861
+Circularity: 0.8001063703614795
+Object center position: x: 356, y: 656
+Contour:
+Area: 11.5
+Perimeter: 13.41421353816986
+Circularity: 0.8031141418478369
+Object center position: x: 183, y: 655
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 208, y: 653
+Contour:
+Area: 21.5
+Perimeter: 18.242640614509583
+Circularity: 0.8118446236640815
+Object center position: x: 955, y: 653
+Contour:
+Area: 2.0
+Perimeter: 61.94112491607666
+Circularity: 0.0065506090822779845
+Object center position: x: 904, y: 655
+Contour:
+Area: 25.5
+Perimeter: 19.899494767189026
+Circularity: 0.8092187632778012
+Object center position: x: 776, y: 654
+Contour:
+Area: 28.0
+Perimeter: 21.313708305358887
+Circularity: 0.7745507159492427
+Object center position: x: 235, y: 654
+Contour:
+Area: 22.0
+Perimeter: 18.485281229019165
+Circularity: 0.8090594231490545
+Object center position: x: 973, y: 652
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 467, y: 649
+Contour:
+Area: 14.5
+Perimeter: 15.071067690849304
+Circularity: 0.8022132398263994
+Object center position: x: 258, y: 650
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 922, y: 649
+Contour:
+Area: 18.5
+Perimeter: 16.242640614509583
+Circularity: 0.881187488145859
+Object center position: x: 854, y: 649
+Contour:
+Area: 26.0
+Perimeter: 19.656854152679443
+Circularity: 0.8455809325652641
+Object center position: x: 813, y: 648
+Contour:
+Area: 37.5
+Perimeter: 23.899494767189026
+Circularity: 0.8250185083082463
+Object center position: x: 793, y: 649
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 576, y: 647
+Contour:
+Area: 3.0
+Perimeter: 6.828427076339722
+Circularity: 0.8085181381420814
+Object center position: x: 500, y: 646
+Contour:
+Area: 6.0
+Perimeter: 9.656854152679443
+Circularity: 0.8085181428902574
+Object center position: x: 753, y: 646
+Contour:
+Area: 0.5
+Perimeter: 14.242640614509583
+Circularity: 0.030974110022565192
+Object center position: x: 301, y: 645
+Contour:
+Area: 11.5
+Perimeter: 13.41421353816986
+Circularity: 0.8031141418478369
+Object center position: x: 944, y: 646
+Contour:
+Area: 8.0
+Perimeter: 11.656854152679443
+Circularity: 0.7398388372977943
+Object center position: x: 322, y: 643
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 180, y: 643
+Contour:
+Area: 14.5
+Perimeter: 15.071067690849304
+Circularity: 0.8022132398263994
+Object center position: x: 530, y: 643
+Contour:
+Area: 17.5
+Perimeter: 17.071067690849304
+Circularity: 0.7546169289326093
+Object center position: x: 340, y: 643
+Contour:
+Area: 26.5
+Perimeter: 19.899494767189026
+Circularity: 0.8409528324259502
+Object center position: x: 270, y: 644
+Contour:
+Area: 36.5
+Perimeter: 39.55634891986847
+Circularity: 0.29313679171324447
+Object center position: x: 220, y: 646
+Contour:
+Area: 14.5
+Perimeter: 15.071067690849304
+Circularity: 0.8022132398263994
+Object center position: x: 863, y: 640
+Contour:
+Area: 23.5
+Perimeter: 18.242640614509583
+Circularity: 0.8873650537723682
+Object center position: x: 783, y: 641
+Contour:
+Area: 6.5
+Perimeter: 24.727921843528748
+Circularity: 0.133582012424476
+Object center position: x: 492, y: 639
+Contour:
+Area: 8.0
+Perimeter: 12.828427076339722
+Circularity: 0.6108759556927862
+Object center position: x: 352, y: 638
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 826, y: 637
+Contour:
+Area: 0.5
+Perimeter: 17.071067690849304
+Circularity: 0.021560483683788836
+Object center position: x: 792, y: 636
+Contour:
+Area: 0.5
+Perimeter: 15.899494767189026
+Circularity: 0.02485496867524251
+Object center position: x: 443, y: 635
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 525, y: 635
+Contour:
+Area: 24.0
+Perimeter: 23.313708305358887
+Circularity: 0.5548791279733458
+Object center position: x: 414, y: 637
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 804, y: 634
+Contour:
+Area: 11.5
+Perimeter: 13.41421353816986
+Circularity: 0.8031141418478369
+Object center position: x: 538, y: 634
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 319, y: 634
+Contour:
+Area: 30.5
+Perimeter: 27.55634891986847
+Circularity: 0.5047384073629989
+Object center position: x: 202, y: 638
+Contour:
+Area: 21.0
+Perimeter: 18.485281229019165
+Circularity: 0.7722839948240977
+Object center position: x: 728, y: 634
+Contour:
+Area: 0.5
+Perimeter: 21.899494767189026
+Circularity: 0.013101218121543962
+Object center position: x: 869, y: 634
+Contour:
+Area: 1.0
+Perimeter: 10.828427076339722
+Circularity: 0.10717145126098285
+Object center position: x: 181, y: 631
+Contour:
+Area: 0.5
+Perimeter: 17.071067690849304
+Circularity: 0.021560483683788836
+Object center position: x: 933, y: 630
+Contour:
+Area: 20.5
+Perimeter: 19.071067690849304
+Circularity: 0.7082942396169128
+Object center position: x: 251, y: 632
+Contour:
+Area: 24.0
+Perimeter: 18.485281229019165
+Circularity: 0.8826102797989687
+Object center position: x: 289, y: 631
+Contour:
+Area: 3.0
+Perimeter: 6.828427076339722
+Circularity: 0.8085181381420814
+Object center position: x: 18, y: 629
+Contour:
+Area: 25.0
+Perimeter: 20.485281229019165
+Circularity: 0.7486279056871125
+Object center position: x: 944, y: 629
+Contour:
+Area: 24.5
+Perimeter: 19.071067690849304
+Circularity: 0.8464979936885056
+Object center position: x: 890, y: 630
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 683, y: 628
+Contour:
+Area: 1.0
+Perimeter: 8.828427076339722
+Circularity: 0.16122901320758615
+Object center position: x: 492, y: 628
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 295, y: 628
+Contour:
+Area: 20.5
+Perimeter: 18.242640614509583
+Circularity: 0.7740844086099381
+Object center position: x: 971, y: 627
+Contour:
+Area: 3.5
+Perimeter: 7.414213538169861
+Circularity: 0.8001063703614795
+Object center position: x: 488, y: 624
+Contour:
+Area: 9.0
+Perimeter: 12.485281229019165
+Circularity: 0.7255305683555883
+Object center position: x: 260, y: 626
+Contour:
+Area: 7.5
+Perimeter: 10.242640614509583
+Circularity: 0.8983534868245348
+Object center position: x: 64, y: 625
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 776, y: 624
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 370, y: 624
+Contour:
+Area: 41.5
+Perimeter: 48.041630148887634
+Circularity: 0.22595527774380514
+Object center position: x: 96, y: 626
+Contour:
+Area: 14.5
+Perimeter: 15.071067690849304
+Circularity: 0.8022132398263994
+Object center position: x: 913, y: 623
+Contour:
+Area: 18.0
+Perimeter: 18.485281229019165
+Circularity: 0.6619577098492265
+Object center position: x: 396, y: 623
+Contour:
+Area: 12.0
+Perimeter: 14.485281229019165
+Circularity: 0.7186827936802287
+Object center position: x: 109, y: 623
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 90, y: 622
+Contour:
+Area: 1.0
+Perimeter: 22.14213538169861
+Circularity: 0.02563131337227457
+Object center position: x: 841, y: 623
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 813, y: 621
+Contour:
+Area: 14.5
+Perimeter: 14.242640614509583
+Circularity: 0.8982491906543907
+Object center position: x: 343, y: 621
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 147, y: 621
+Contour:
+Area: 1.0
+Perimeter: 22.14213538169861
+Circularity: 0.02563131337227457
+Object center position: x: 309, y: 620
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 923, y: 619
+Contour:
+Area: 21.0
+Perimeter: 18.485281229019165
+Circularity: 0.7722839948240977
+Object center position: x: 256, y: 619
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 440, y: 616
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 212, y: 615
+Contour:
+Area: 17.0
+Perimeter: 16.82842707633972
+Circularity: 0.7543479859516065
+Object center position: x: 395, y: 615
+Contour:
+Area: 19.5
+Perimeter: 17.899494767189026
+Circularity: 0.7648265049708362
+Object center position: x: 351, y: 616
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 888, y: 615
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 131, y: 613
+Contour:
+Area: 15.5
+Perimeter: 15.071067690849304
+Circularity: 0.8575382908489095
+Object center position: x: 693, y: 613
+Contour:
+Area: 22.5
+Perimeter: 19.071067690849304
+Circularity: 0.7773961166527094
+Object center position: x: 514, y: 613
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 377, y: 611
+Contour:
+Area: 18.0
+Perimeter: 16.485281229019165
+Circularity: 0.8323186927986581
+Object center position: x: 859, y: 612
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 289, y: 610
+Contour:
+Area: 14.5
+Perimeter: 15.41421353816986
+Circularity: 0.7668936186867932
+Object center position: x: 463, y: 609
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 953, y: 608
+Contour:
+Area: 4.0
+Perimeter: 7.656854152679443
+Circularity: 0.8573716241035623
+Object center position: x: 979, y: 607
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 405, y: 607
+Contour:
+Area: 19.0
+Perimeter: 18.485281229019165
+Circularity: 0.6987331381741835
+Object center position: x: 653, y: 606
+Contour:
+Area: 16.5
+Perimeter: 15.899494767189026
+Circularity: 0.8202139662830028
+Object center position: x: 258, y: 605
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 16, y: 604
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 678, y: 603
+Contour:
+Area: 17.0
+Perimeter: 15.656854152679443
+Circularity: 0.8714646463829057
+Object center position: x: 346, y: 604
+Contour:
+Area: 1.0
+Perimeter: 11.656854152679443
+Circularity: 0.09247985466222429
+Object center position: x: 336, y: 603
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 641, y: 603
+Contour:
+Area: 37.0
+Perimeter: 26.14213538169861
+Circularity: 0.6803454259199047
+Object center position: x: 555, y: 604
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 545, y: 601
+Contour:
+Area: 0.5
+Perimeter: 12.242640614509583
+Circularity: 0.04192081010288971
+Object center position: x: 585, y: 598
+Contour:
+Area: 12.5
+Perimeter: 15.071067690849304
+Circularity: 0.6915631377813787
+Object center position: x: 440, y: 598
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 763, y: 597
+Contour:
+Area: 19.5
+Perimeter: 17.071067690849304
+Circularity: 0.8408588636677646
+Object center position: x: 736, y: 598
+Contour:
+Area: 21.0
+Perimeter: 17.656854152679443
+Circularity: 0.8464523193398272
+Object center position: x: 670, y: 597
+Contour:
+Area: 20.0
+Perimeter: 19.656854152679443
+Circularity: 0.6504468712040492
+Object center position: x: 616, y: 597
+Contour:
+Area: 15.5
+Perimeter: 15.071067690849304
+Circularity: 0.8575382908489095
+Object center position: x: 323, y: 597
+Contour:
+Area: 19.0
+Perimeter: 17.656854152679443
+Circularity: 0.7658378127360341
+Object center position: x: 784, y: 596
+Contour:
+Area: 5.5
+Perimeter: 11.071067690849304
+Circularity: 0.5638888941900405
+Object center position: x: 622, y: 595
+Contour:
+Area: 3.0
+Perimeter: 23.313708305358887
+Circularity: 0.06935989099666823
+Object center position: x: 604, y: 595
+Contour:
+Area: 3.0
+Perimeter: 15.656854152679443
+Circularity: 0.15378787877345393
+Object center position: x: 501, y: 593
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 334, y: 594
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 123, y: 594
+Contour:
+Area: 3.5
+Perimeter: 19.899494767189026
+Circularity: 0.11106924201852172
+Object center position: x: 657, y: 595
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 691, y: 592
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 113, y: 592
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 637, y: 590
+Contour:
+Area: 6.5
+Perimeter: 10.242640614509583
+Circularity: 0.778573021914597
+Object center position: x: 553, y: 590
+Contour:
+Area: 0.5
+Perimeter: 5.414213538169861
+Circularity: 0.2143429025219657
+Object center position: x: 667, y: 589
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 400, y: 590
+Contour:
+Area: 26.5
+Perimeter: 21.899494767189026
+Circularity: 0.69436456044183
+Object center position: x: 372, y: 592
+Contour:
+Area: 21.0
+Perimeter: 17.656854152679443
+Circularity: 0.8464523193398272
+Object center position: x: 783, y: 589
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 168, y: 588
+Contour:
+Area: 3.5
+Perimeter: 7.414213538169861
+Circularity: 0.8001063703614795
+Object center position: x: 21, y: 588
+Contour:
+Area: 27.0
+Perimeter: 21.313708305358887
+Circularity: 0.746888190379627
+Object center position: x: 827, y: 588
+Contour:
+Area: 26.0
+Perimeter: 21.313708305358887
+Circularity: 0.7192256648100112
+Object center position: x: 731, y: 588
+Contour:
+Area: 4.0
+Perimeter: 7.656854152679443
+Circularity: 0.8573716241035623
+Object center position: x: 192, y: 586
+Contour:
+Area: 15.5
+Perimeter: 16.242640614509583
+Circularity: 0.7382922197978818
+Object center position: x: 763, y: 585
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 859, y: 583
+Contour:
+Area: 52.0
+Perimeter: 61.455843687057495
+Circularity: 0.17301622709213266
+Object center position: x: 517, y: 585
+Contour:
+Area: 0.5
+Perimeter: 23.071067690849304
+Circularity: 0.011804415332298528
+Object center position: x: 205, y: 582
+Contour:
+Area: 17.0
+Perimeter: 16.82842707633972
+Circularity: 0.7543479859516065
+Object center position: x: 24, y: 582
+Contour:
+Area: 22.5
+Perimeter: 19.071067690849304
+Circularity: 0.7773961166527094
+Object center position: x: 839, y: 581
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 781, y: 580
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 745, y: 580
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 434, y: 580
+Contour:
+Area: 25.0
+Perimeter: 18.485281229019165
+Circularity: 0.9193857081239257
+Object center position: x: 925, y: 580
+Contour:
+Area: 19.5
+Perimeter: 17.071067690849304
+Circularity: 0.8408588636677646
+Object center position: x: 541, y: 580
+Contour:
+Area: 15.0
+Perimeter: 16.485281229019165
+Circularity: 0.6935989106655485
+Object center position: x: 710, y: 578
+Contour:
+Area: 4.0
+Perimeter: 7.656854152679443
+Circularity: 0.8573716241035623
+Object center position: x: 460, y: 576
+Contour:
+Area: 16.5
+Perimeter: 17.071067690849304
+Circularity: 0.7114959615650317
+Object center position: x: 957, y: 576
+Contour:
+Area: 11.5
+Perimeter: 14.242640614509583
+Circularity: 0.7124045305189994
+Object center position: x: 618, y: 576
+Contour:
+Area: 1.5
+Perimeter: 24.727921843528748
+Circularity: 0.030826618251802156
+Object center position: x: 730, y: 576
+Contour:
+Area: 0.5
+Perimeter: 6.2426406145095825
+Circularity: 0.16122901519013072
+Object center position: x: 190, y: 572
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 980, y: 572
+Contour:
+Area: 14.0
+Perimeter: 14.828427076339722
+Circularity: 0.8001063703614795
+Object center position: x: 825, y: 572
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 804, y: 572
+Contour:
+Area: 19.5
+Perimeter: 17.071067690849304
+Circularity: 0.8408588636677646
+Object center position: x: 558, y: 573
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 516, y: 571
+Contour:
+Area: 0.5
+Perimeter: 7.414213538169861
+Circularity: 0.11430091005163992
+Object center position: x: 290, y: 570
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 730, y: 569
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 567, y: 568
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 655, y: 567
+Contour:
+Area: 1.0
+Perimeter: 16.485281229019165
+Circularity: 0.04623992737770323
+Object center position: x: 299, y: 567
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 759, y: 565
+Contour:
+Area: 19.5
+Perimeter: 17.899494767189026
+Circularity: 0.7648265049708362
+Object center position: x: 931, y: 564
+Contour:
+Area: 6.5
+Perimeter: 10.242640614509583
+Circularity: 0.778573021914597
+Object center position: x: 265, y: 563
+Contour:
+Area: 0.5
+Perimeter: 7.414213538169861
+Circularity: 0.11430091005163992
+Object center position: x: 216, y: 563
+Contour:
+Area: 0.5
+Perimeter: 7.414213538169861
+Circularity: 0.11430091005163992
+Object center position: x: 835, y: 560
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 65, y: 561
+Contour:
+Area: 19.0
+Perimeter: 17.656854152679443
+Circularity: 0.7658378127360341
+Object center position: x: 736, y: 561
+Contour:
+Area: 8.0
+Perimeter: 11.656854152679443
+Circularity: 0.7398388372977943
+Object center position: x: 663, y: 561
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 38, y: 560
+Contour:
+Area: 6.0
+Perimeter: 9.656854152679443
+Circularity: 0.8085181428902574
+Object center position: x: 995, y: 559
+Contour:
+Area: 0.5
+Perimeter: 13.071067690849304
+Circularity: 0.03677542842810295
+Object center position: x: 857, y: 559
+Contour:
+Area: 17.0
+Perimeter: 17.313708305358887
+Circularity: 0.7126537792355527
+Object center position: x: 650, y: 560
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 901, y: 558
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 389, y: 557
+Contour:
+Area: 4.5
+Perimeter: 10.242640614509583
+Circularity: 0.5390120920947209
+Object center position: x: 275, y: 556
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 324, y: 554
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 51, y: 554
+Contour:
+Area: 0.5
+Perimeter: 15.899494767189026
+Circularity: 0.02485496867524251
+Object center position: x: 421, y: 552
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 732, y: 553
+Contour:
+Area: 6.0
+Perimeter: 11.656854152679443
+Circularity: 0.5548791279733458
+Object center position: x: 742, y: 551
+Contour:
+Area: 16.5
+Perimeter: 17.071067690849304
+Circularity: 0.7114959615650317
+Object center position: x: 313, y: 552
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 934, y: 551
+Contour:
+Area: 11.0
+Perimeter: 14.828427076339722
+Circularity: 0.6286550052840195
+Object center position: x: 534, y: 550
+Contour:
+Area: 0.5
+Perimeter: 7.414213538169861
+Circularity: 0.11430091005163992
+Object center position: x: 70, y: 549
+Contour:
+Area: 10.0
+Perimeter: 13.656854152679443
+Circularity: 0.6737651151184011
+Object center position: x: 752, y: 549
+Contour:
+Area: 3.0
+Perimeter: 65.11269783973694
+Circularity: 0.008892005828933045
+Object center position: x: 40, y: 551
+Contour:
+Area: 33.0
+Perimeter: 23.313708305358887
+Circularity: 0.7629588009633504
+Object center position: x: 95, y: 549
+Contour:
+Area: 8.0
+Perimeter: 11.656854152679443
+Circularity: 0.7398388372977943
+Object center position: x: 20, y: 548
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 959, y: 546
+Contour:
+Area: 14.0
+Perimeter: 14.828427076339722
+Circularity: 0.8001063703614795
+Object center position: x: 385, y: 547
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 215, y: 546
+Contour:
+Area: 2.5
+Perimeter: 58.5269113779068
+Circularity: 0.009171463901290637
+Object center position: x: 121, y: 548
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 75, y: 545
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 776, y: 543
+Contour:
+Area: 19.0
+Perimeter: 18.485281229019165
+Circularity: 0.6987331381741835
+Object center position: x: 945, y: 543
+Contour:
+Area: 17.5
+Perimeter: 16.242640614509583
+Circularity: 0.8335557320298667
+Object center position: x: 35, y: 541
+Contour:
+Area: 22.5
+Perimeter: 19.071067690849304
+Circularity: 0.7773961166527094
+Object center position: x: 818, y: 540
+Contour:
+Area: 1.5
+Perimeter: 8.242640614509583
+Circularity: 0.2774395642662194
+Object center position: x: 597, y: 538
+Contour:
+Area: 5.5
+Perimeter: 9.41421353816986
+Circularity: 0.7798381254407765
+Object center position: x: 474, y: 538
+Contour:
+Area: 1.0
+Perimeter: 10.828427076339722
+Circularity: 0.10717145126098285
+Object center position: x: 862, y: 536
+Contour:
+Area: 22.0
+Perimeter: 22.485281229019165
+Circularity: 0.5468093062649478
+Object center position: x: 577, y: 538
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 466, y: 537
+Contour:
+Area: 8.0
+Perimeter: 11.656854152679443
+Circularity: 0.7398388372977943
+Object center position: x: 424, y: 536
+Contour:
+Area: 15.0
+Perimeter: 16.485281229019165
+Circularity: 0.6935989106655485
+Object center position: x: 108, y: 537
+Contour:
+Area: 3.5
+Perimeter: 7.414213538169861
+Circularity: 0.8001063703614795
+Object center position: x: 595, y: 534
+Contour:
+Area: 0.5
+Perimeter: 13.071067690849304
+Circularity: 0.03677542842810295
+Object center position: x: 649, y: 533
+Contour:
+Area: 7.0
+Perimeter: 84.91168737411499
+Circularity: 0.012200368868142786
+Object center position: x: 139, y: 537
+Contour:
+Area: 3.5
+Perimeter: 22.727921843528748
+Circularity: 0.08514486354891784
+Object center position: x: 131, y: 534
+Contour:
+Area: 1.0
+Perimeter: 10.828427076339722
+Circularity: 0.10717145126098285
+Object center position: x: 635, y: 532
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 626, y: 532
+Contour:
+Area: 21.0
+Perimeter: 18.485281229019165
+Circularity: 0.7722839948240977
+Object center position: x: 520, y: 533
+Contour:
+Area: 15.0
+Perimeter: 14.828427076339722
+Circularity: 0.8572568253872993
+Object center position: x: 100, y: 533
+Contour:
+Area: 23.0
+Perimeter: 19.313708305358887
+Circularity: 0.7748298869364966
+Object center position: x: 89, y: 533
+Contour:
+Area: 7.5
+Perimeter: 10.242640614509583
+Circularity: 0.8983534868245348
+Object center position: x: 20, y: 532
+Contour:
+Area: 13.0
+Perimeter: 15.313708305358887
+Circularity: 0.6966144445841445
+Object center position: x: 277, y: 532
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 679, y: 530
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 674, y: 530
+Contour:
+Area: 12.0
+Perimeter: 14.828427076339722
+Circularity: 0.6858054603098395
+Object center position: x: 223, y: 530
+Contour:
+Area: 10.0
+Perimeter: 13.656854152679443
+Circularity: 0.6737651151184011
+Object center position: x: 933, y: 529
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 60, y: 529
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 140, y: 529
+Contour:
+Area: 11.5
+Perimeter: 14.242640614509583
+Circularity: 0.7124045305189994
+Object center position: x: 107, y: 527
+Contour:
+Area: 12.0
+Perimeter: 14.485281229019165
+Circularity: 0.7186827936802287
+Object center position: x: 26, y: 526
+Contour:
+Area: 15.0
+Perimeter: 15.656854152679443
+Circularity: 0.7689393938672696
+Object center position: x: 359, y: 522
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 374, y: 521
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 770, y: 520
+Contour:
+Area: 19.5
+Perimeter: 17.071067690849304
+Circularity: 0.8408588636677646
+Object center position: x: 272, y: 520
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 482, y: 518
+Contour:
+Area: 17.5
+Perimeter: 17.899494767189026
+Circularity: 0.6863827608712632
+Object center position: x: 184, y: 519
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 786, y: 517
+Contour:
+Area: 11.5
+Perimeter: 13.41421353816986
+Circularity: 0.8031141418478369
+Object center position: x: 706, y: 517
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 630, y: 518
+Contour:
+Area: 0.5
+Perimeter: 16.727921843528748
+Circularity: 0.02245411212462663
+Object center position: x: 421, y: 518
+Contour:
+Area: 19.5
+Perimeter: 17.071067690849304
+Circularity: 0.8408588636677646
+Object center position: x: 172, y: 518
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 140, y: 517
+Contour:
+Area: 11.5
+Perimeter: 13.071067690849304
+Circularity: 0.8458348538463678
+Object center position: x: 391, y: 517
+Contour:
+Area: 7.5
+Perimeter: 17.071067690849304
+Circularity: 0.32340725525683256
+Object center position: x: 210, y: 515
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 659, y: 516
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 730, y: 514
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 358, y: 514
+Contour:
+Area: 9.0
+Perimeter: 12.485281229019165
+Circularity: 0.7255305683555883
+Object center position: x: 320, y: 514
+Contour:
+Area: 13.5
+Perimeter: 14.242640614509583
+Circularity: 0.8363009706092601
+Object center position: x: 135, y: 513
+Contour:
+Area: 12.0
+Perimeter: 14.0
+Circularity: 0.7693696294505615
+Object center position: x: 379, y: 512
+Contour:
+Area: 1.0
+Perimeter: 12.485281229019165
+Circularity: 0.08061450759506536
+Object center position: x: 0, y: 513
+Contour:
+Area: 8.5
+Perimeter: 17.071067690849304
+Circularity: 0.36652822262441026
+Object center position: x: 267, y: 511
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 764, y: 510
+Contour:
+Area: 19.0
+Perimeter: 17.656854152679443
+Circularity: 0.7658378127360341
+Object center position: x: 306, y: 511
+Contour:
+Area: 23.5
+Perimeter: 17.899494767189026
+Circularity: 0.9217139931699821
+Object center position: x: 126, y: 511
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 53, y: 510
+Contour:
+Area: 8.0
+Perimeter: 14.828427076339722
+Circularity: 0.4572036402065597
+Object center position: x: 212, y: 509
+Contour:
+Area: 2.5
+Perimeter: 25.55634891986847
+Circularity: 0.04810079505737062
+Object center position: x: 193, y: 508
+Contour:
+Area: 2.0
+Perimeter: 16.485281229019165
+Circularity: 0.09247985475540646
+Object center position: x: 800, y: 506
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 528, y: 507
+Contour:
+Area: 15.0
+Perimeter: 16.485281229019165
+Circularity: 0.6935989106655485
+Object center position: x: 353, y: 506
+Contour:
+Area: 17.0
+Perimeter: 16.485281229019165
+Circularity: 0.786078765420955
+Object center position: x: 235, y: 505
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 365, y: 504
+Contour:
+Area: 0.5
+Perimeter: 17.071067690849304
+Circularity: 0.021560483683788836
+Object center position: x: 216, y: 503
+Contour:
+Area: 35.5
+Perimeter: 25.899494767189026
+Circularity: 0.6650520441804391
+Object center position: x: 59, y: 507
+Contour:
+Area: 0.5
+Perimeter: 5.414213538169861
+Circularity: 0.2143429025219657
+Object center position: x: 923, y: 503
+Contour:
+Area: 17.5
+Perimeter: 17.071067690849304
+Circularity: 0.7546169289326093
+Object center position: x: 849, y: 503
+Contour:
+Area: 11.0
+Perimeter: 12.485281229019165
+Circularity: 0.8867595835457188
+Object center position: x: 563, y: 502
+Contour:
+Area: 26.0
+Perimeter: 19.656854152679443
+Circularity: 0.8455809325652641
+Object center position: x: 413, y: 502
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 109, y: 501
+Contour:
+Area: 13.5
+Perimeter: 15.071067690849304
+Circularity: 0.746888188803889
+Object center position: x: 807, y: 501
+Contour:
+Area: 18.0
+Perimeter: 16.485281229019165
+Circularity: 0.8323186927986581
+Object center position: x: 246, y: 501
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 516, y: 499
+Contour:
+Area: 21.0
+Perimeter: 19.313708305358887
+Circularity: 0.7074533750289752
+Object center position: x: 838, y: 500
+Contour:
+Area: 12.0
+Perimeter: 14.0
+Circularity: 0.7693696294505615
+Object center position: x: 258, y: 498
+Contour:
+Area: 8.0
+Perimeter: 10.828427076339722
+Circularity: 0.8573716100878628
+Object center position: x: 124, y: 498
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 846, y: 496
+Contour:
+Area: 9.0
+Perimeter: 12.828427076339722
+Circularity: 0.6872354501543845
+Object center position: x: 589, y: 496
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 454, y: 496
+Contour:
+Area: 17.5
+Perimeter: 17.071067690849304
+Circularity: 0.7546169289326093
+Object center position: x: 326, y: 497
+Contour:
+Area: 23.0
+Perimeter: 45.455843687057495
+Circularity: 0.13988084725893646
+Object center position: x: 179, y: 497
+Contour:
+Area: 14.0
+Perimeter: 14.828427076339722
+Circularity: 0.8001063703614795
+Object center position: x: 550, y: 496
+Contour:
+Area: 18.5
+Perimeter: 17.899494767189026
+Circularity: 0.7256046329210497
+Object center position: x: 409, y: 496
+Contour:
+Area: 17.0
+Perimeter: 16.485281229019165
+Circularity: 0.786078765420955
+Object center position: x: 168, y: 496
+Contour:
+Area: 0.5
+Perimeter: 6.2426406145095825
+Circularity: 0.16122901519013072
+Object center position: x: 478, y: 493
+Contour:
+Area: 15.0
+Perimeter: 15.656854152679443
+Circularity: 0.7689393938672696
+Object center position: x: 193, y: 493
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 35, y: 493
+Contour:
+Area: 35.0
+Perimeter: 23.313708305358887
+Circularity: 0.8091987282944626
+Object center position: x: 576, y: 495
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 463, y: 492
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 348, y: 492
+Contour:
+Area: 18.5
+Perimeter: 17.071067690849304
+Circularity: 0.797737896300187
+Object center position: x: 505, y: 492
+Contour:
+Area: 0.5
+Perimeter: 5.414213538169861
+Circularity: 0.2143429025219657
+Object center position: x: 476, y: 490
+Contour:
+Area: 23.5
+Perimeter: 19.899494767189026
+Circularity: 0.745750624981503
+Object center position: x: 397, y: 492
+Contour:
+Area: 9.0
+Perimeter: 12.828427076339722
+Circularity: 0.6872354501543845
+Object center position: x: 329, y: 491
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 156, y: 491
+Contour:
+Area: 19.0
+Perimeter: 16.485281229019165
+Circularity: 0.8785586201763613
+Object center position: x: 894, y: 491
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 304, y: 490
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 0, y: 490
+Contour:
+Area: 7.0
+Perimeter: 10.485281229019165
+Circularity: 0.8001063873003664
+Object center position: x: 266, y: 489
+Contour:
+Area: 22.0
+Perimeter: 19.313708305358887
+Circularity: 0.7411416309827358
+Object center position: x: 28, y: 490
+Contour:
+Area: 8.0
+Perimeter: 11.656854152679443
+Circularity: 0.7398388372977943
+Object center position: x: 942, y: 488
+Contour:
+Area: 18.0
+Perimeter: 15.656854152679443
+Circularity: 0.9227272726407235
+Object center position: x: 661, y: 489
+Contour:
+Area: 1.0
+Perimeter: 10.828427076339722
+Circularity: 0.10717145126098285
+Object center position: x: 71, y: 488
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 361, y: 487
+Contour:
+Area: 0.5
+Perimeter: 7.414213538169861
+Circularity: 0.11430091005163992
+Object center position: x: 198, y: 486
+Contour:
+Area: 9.0
+Perimeter: 11.656854152679443
+Circularity: 0.8323186919600186
+Object center position: x: 101, y: 487
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 49, y: 487
+Contour:
+Area: 17.5
+Perimeter: 17.071067690849304
+Circularity: 0.7546169289326093
+Object center position: x: 428, y: 487
+Contour:
+Area: 19.5
+Perimeter: 17.071067690849304
+Circularity: 0.8408588636677646
+Object center position: x: 182, y: 487
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 134, y: 487
+Contour:
+Area: 13.5
+Perimeter: 25.071067690849304
+Circularity: 0.26989694800753933
+Object center position: x: 111, y: 486
+Contour:
+Area: 26.0
+Perimeter: 19.656854152679443
+Circularity: 0.8455809325652641
+Object center position: x: 15, y: 487
+Contour:
+Area: 16.5
+Perimeter: 16.727921843528748
+Circularity: 0.7409857001126788
+Object center position: x: 381, y: 486
+Contour:
+Area: 46.5
+Perimeter: 29.899494767189026
+Circularity: 0.6536347262512927
+Object center position: x: 232, y: 487
+Contour:
+Area: 17.0
+Perimeter: 16.82842707633972
+Circularity: 0.7543479859516065
+Object center position: x: 962, y: 484
+Contour:
+Area: 16.0
+Perimeter: 16.485281229019165
+Circularity: 0.7398388380432517
+Object center position: x: 528, y: 484
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 389, y: 483
+Contour:
+Area: 34.0
+Perimeter: 29.313708305358887
+Circularity: 0.49721847490687504
+Object center position: x: 256, y: 485
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 992, y: 482
+Contour:
+Area: 18.5
+Perimeter: 17.899494767189026
+Circularity: 0.7256046329210497
+Object center position: x: 932, y: 484
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 266, y: 482
+Contour:
+Area: 18.0
+Perimeter: 16.82842707633972
+Circularity: 0.7987213968899363
+Object center position: x: 32, y: 482
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 937, y: 480
+Contour:
+Area: 28.5
+Perimeter: 19.899494767189026
+Circularity: 0.9044209707222483
+Object center position: x: 542, y: 482
+Contour:
+Area: 22.5
+Perimeter: 19.071067690849304
+Circularity: 0.7773961166527094
+Object center position: x: 725, y: 480
+Contour:
+Area: 14.5
+Perimeter: 15.41421353816986
+Circularity: 0.7668936186867932
+Object center position: x: 431, y: 479
+Contour:
+Area: 1.5
+Perimeter: 21.899494767189026
+Circularity: 0.03930365436463189
+Object center position: x: 184, y: 479
+Contour:
+Area: 18.5
+Perimeter: 17.071067690849304
+Circularity: 0.797737896300187
+Object center position: x: 599, y: 479
+Contour:
+Area: 0.5
+Perimeter: 12.242640614509583
+Circularity: 0.04192081010288971
+Object center position: x: 311, y: 478
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 278, y: 478
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 90, y: 478
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 25, y: 479
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 975, y: 478
+Contour:
+Area: 8.0
+Perimeter: 65.94112491607666
+Circularity: 0.023119963688851615
+Object center position: x: 577, y: 478
+Contour:
+Area: 18.5
+Perimeter: 17.899494767189026
+Circularity: 0.7256046329210497
+Object center position: x: 474, y: 478
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 199, y: 477
+Contour:
+Area: 1.5
+Perimeter: 25.899494767189026
+Circularity: 0.02810079059917348
+Object center position: x: 192, y: 476
+Contour:
+Area: 18.0
+Perimeter: 17.656854152679443
+Circularity: 0.7255305594341376
+Object center position: x: 757, y: 476
+Contour:
+Area: 15.5
+Perimeter: 15.41421353816986
+Circularity: 0.8197828337686409
+Object center position: x: 679, y: 475
+Contour:
+Area: 22.0
+Perimeter: 18.485281229019165
+Circularity: 0.8090594231490545
+Object center position: x: 297, y: 476
+Contour:
+Area: 25.0
+Perimeter: 19.656854152679443
+Circularity: 0.8130585890050616
+Object center position: x: 142, y: 475
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 488, y: 474
+Contour:
+Area: 37.0
+Perimeter: 28.14213538169861
+Circularity: 0.5870802793422497
+Object center position: x: 517, y: 474
+Contour:
+Area: 16.5
+Perimeter: 17.071067690849304
+Circularity: 0.7114959615650317
+Object center position: x: 762, y: 471
+Contour:
+Area: 16.5
+Perimeter: 15.899494767189026
+Circularity: 0.8202139662830028
+Object center position: x: 243, y: 471
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 501, y: 469
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 155, y: 469
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 402, y: 468
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 289, y: 469
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 131, y: 467
+Contour:
+Area: 15.0
+Perimeter: 14.828427076339722
+Circularity: 0.8572568253872993
+Object center position: x: 669, y: 468
+Contour:
+Area: 17.5
+Perimeter: 16.242640614509583
+Circularity: 0.8335557320298667
+Object center position: x: 377, y: 468
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 747, y: 467
+Contour:
+Area: 23.5
+Perimeter: 19.071067690849304
+Circularity: 0.8119470551706076
+Object center position: x: 342, y: 467
+Contour:
+Area: 0.5
+Perimeter: 18.727921843528748
+Circularity: 0.017914335021125636
+Object center position: x: 328, y: 466
+Contour:
+Area: 17.0
+Perimeter: 15.656854152679443
+Circularity: 0.8714646463829057
+Object center position: x: 882, y: 466
+Contour:
+Area: 1.0
+Perimeter: 10.828427076339722
+Circularity: 0.10717145126098285
+Object center position: x: 173, y: 466
+Contour:
+Area: 18.0
+Perimeter: 17.313708305358887
+Circularity: 0.7545745897788205
+Object center position: x: 444, y: 464
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 304, y: 464
+Contour:
+Area: 0.5
+Perimeter: 3.414213538169861
+Circularity: 0.5390120920947209
+Object center position: x: 589, y: 461
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 213, y: 462
+Contour:
+Area: 17.5
+Perimeter: 45.21320307254791
+Circularity: 0.10757648809932557
+Object center position: x: 52, y: 463
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 535, y: 462
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 5, y: 461
+Contour:
+Area: 1.5
+Perimeter: 27.899494767189026
+Circularity: 0.024216336663325216
+Object center position: x: 589, y: 464
+Contour:
+Area: 0.5
+Perimeter: 5.414213538169861
+Circularity: 0.2143429025219657
+Object center position: x: 136, y: 460
+Contour:
+Area: 0.5
+Perimeter: 6.2426406145095825
+Circularity: 0.16122901519013072
+Object center position: x: 959, y: 458
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 641, y: 460
+Contour:
+Area: 25.0
+Perimeter: 20.485281229019165
+Circularity: 0.7486279056871125
+Object center position: x: 611, y: 461
+Contour:
+Area: 38.5
+Perimeter: 32.72792184352875
+Circularity: 0.45168298905385296
+Object center position: x: 335, y: 460
+Contour:
+Area: 2.0
+Perimeter: 6.828427076339722
+Circularity: 0.5390120920947209
+Object center position: x: 134, y: 458
+Contour:
+Area: 19.0
+Perimeter: 17.313708305358887
+Circularity: 0.7964954003220882
+Object center position: x: 891, y: 459
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 832, y: 457
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 387, y: 458
+Contour:
+Area: 13.5
+Perimeter: 15.071067690849304
+Circularity: 0.746888188803889
+Object center position: x: 237, y: 458
+Contour:
+Area: 25.0
+Perimeter: 27.313708305358887
+Circularity: 0.4211031969490007
+Object center position: x: 924, y: 458
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 876, y: 457
+Contour:
+Area: 15.0
+Perimeter: 15.656854152679443
+Circularity: 0.7689393938672696
+Object center position: x: 485, y: 457
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 785, y: 456
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 636, y: 455
+Contour:
+Area: 19.0
+Perimeter: 19.313708305358887
+Circularity: 0.6400768631214536
+Object center position: x: 521, y: 456
+Contour:
+Area: 21.5
+Perimeter: 19.071067690849304
+Circularity: 0.7428451781348111
+Object center position: x: 858, y: 454
+Contour:
+Area: 19.5
+Perimeter: 17.41421353816986
+Circularity: 0.8080472269221511
+Object center position: x: 797, y: 454
+Contour:
+Area: 27.5
+Perimeter: 22.727921843528748
+Circularity: 0.6689953564557831
+Object center position: x: 542, y: 455
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 508, y: 453
+Contour:
+Area: 0.5
+Perimeter: 15.071067690849304
+Circularity: 0.027662525511255146
+Object center position: x: 997, y: 451
+Contour:
+Area: 43.0
+Perimeter: 32.14213538169861
+Circularity: 0.5230327310802989
+Object center position: x: 678, y: 453
+Contour:
+Area: 13.5
+Perimeter: 14.242640614509583
+Circularity: 0.8363009706092601
+Object center position: x: 656, y: 452
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 952, y: 450
+Contour:
+Area: 19.0
+Perimeter: 17.656854152679443
+Circularity: 0.7658378127360341
+Object center position: x: 497, y: 451
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 427, y: 450
+Contour:
+Area: 14.0
+Perimeter: 14.485281229019165
+Circularity: 0.8384632592936002
+Object center position: x: 196, y: 451
+Contour:
+Area: 30.0
+Perimeter: 52.62741661071777
+Circularity: 0.13611532209836572
+Object center position: x: 731, y: 450
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 585, y: 449
+Contour:
+Area: 26.0
+Perimeter: 21.313708305358887
+Circularity: 0.7192256648100112
+Object center position: x: 460, y: 451
+Contour:
+Area: 6.0
+Perimeter: 9.656854152679443
+Circularity: 0.8085181428902574
+Object center position: x: 614, y: 448
+Contour:
+Area: 18.0
+Perimeter: 16.485281229019165
+Circularity: 0.8323186927986581
+Object center position: x: 339, y: 449
+Contour:
+Area: 10.5
+Perimeter: 33.21320307254791
+Circularity: 0.11961279573728133
+Object center position: x: 749, y: 449
+Contour:
+Area: 25.5
+Perimeter: 19.899494767189026
+Circularity: 0.8092187632778012
+Object center position: x: 712, y: 448
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 673, y: 447
+Contour:
+Area: 21.0
+Perimeter: 18.485281229019165
+Circularity: 0.7722839948240977
+Object center position: x: 563, y: 447
+Contour:
+Area: 3.0
+Perimeter: 6.828427076339722
+Circularity: 0.8085181381420814
+Object center position: x: 436, y: 446
+Contour:
+Area: 0.5
+Perimeter: 10.242640614509583
+Circularity: 0.05989023245496899
+Object center position: x: 388, y: 446
+Contour:
+Area: 37.5
+Perimeter: 35.55634891986847
+Circularity: 0.37274069706748314
+Object center position: x: 986, y: 448
+Contour:
+Area: 31.0
+Perimeter: 45.455843687057495
+Circularity: 0.18853505500117523
+Object center position: x: 695, y: 448
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 513, y: 445
+Contour:
+Area: 21.0
+Perimeter: 18.485281229019165
+Circularity: 0.7722839948240977
+Object center position: x: 181, y: 446
+Contour:
+Area: 6.5
+Perimeter: 10.242640614509583
+Circularity: 0.778573021914597
+Object center position: x: 477, y: 444
+Contour:
+Area: 17.5
+Perimeter: 17.071067690849304
+Circularity: 0.7546169289326093
+Object center position: x: 201, y: 445
+Contour:
+Area: 23.5
+Perimeter: 19.071067690849304
+Circularity: 0.8119470551706076
+Object center position: x: 30, y: 445
+Contour:
+Area: 10.0
+Perimeter: 12.485281229019165
+Circularity: 0.8061450759506535
+Object center position: x: 804, y: 444
+Contour:
+Area: 1.0
+Perimeter: 10.828427076339722
+Circularity: 0.10717145126098285
+Object center position: x: 705, y: 442
+Contour:
+Area: 1.0
+Perimeter: 23.313708305358887
+Circularity: 0.023119963665556072
+Object center position: x: 621, y: 443
+Contour:
+Area: 26.5
+Perimeter: 20.727921843528748
+Circularity: 0.7750758639943486
+Object center position: x: 963, y: 442
+Contour:
+Area: 45.0
+Perimeter: 35.79898953437805
+Circularity: 0.4412460605600978
+Object center position: x: 890, y: 443
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 657, y: 442
+Contour:
+Area: 15.5
+Perimeter: 15.899494767189026
+Circularity: 0.7705040289325178
+Object center position: x: 713, y: 441
+Contour:
+Area: 15.0
+Perimeter: 15.656854152679443
+Circularity: 0.7689393938672696
+Object center position: x: 612, y: 440
+Contour:
+Area: 23.0
+Perimeter: 20.485281229019165
+Circularity: 0.6887376732321434
+Object center position: x: 831, y: 441
+Contour:
+Area: 22.5
+Perimeter: 19.071067690849304
+Circularity: 0.7773961166527094
+Object center position: x: 6, y: 440
+Contour:
+Area: 18.5
+Perimeter: 17.071067690849304
+Circularity: 0.797737896300187
+Object center position: x: 757, y: 439
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 428, y: 437
+Contour:
+Area: 13.5
+Perimeter: 15.071067690849304
+Circularity: 0.746888188803889
+Object center position: x: 842, y: 437
+Contour:
+Area: 19.5
+Perimeter: 17.899494767189026
+Circularity: 0.7648265049708362
+Object center position: x: 124, y: 437
+Contour:
+Area: 48.5
+Perimeter: 31.55634891986847
+Circularity: 0.6120376004221625
+Object center position: x: 945, y: 437
+Contour:
+Area: 1.5
+Perimeter: 17.899494767189026
+Circularity: 0.05883280807467971
+Object center position: x: 557, y: 435
+Contour:
+Area: 8.0
+Perimeter: 10.828427076339722
+Circularity: 0.8573716100878628
+Object center position: x: 370, y: 435
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 854, y: 435
+Contour:
+Area: 11.5
+Perimeter: 13.41421353816986
+Circularity: 0.8031141418478369
+Object center position: x: 665, y: 435
+Contour:
+Area: 19.0
+Perimeter: 17.656854152679443
+Circularity: 0.7658378127360341
+Object center position: x: 567, y: 435
+Contour:
+Area: 5.5
+Perimeter: 17.071067690849304
+Circularity: 0.2371653205216772
+Object center position: x: 310, y: 434
+Contour:
+Area: 26.5
+Perimeter: 20.242640614509583
+Circularity: 0.8126834365935457
+Object center position: x: 810, y: 434
+Contour:
+Area: 14.5
+Perimeter: 15.071067690849304
+Circularity: 0.8022132398263994
+Object center position: x: 160, y: 433
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 353, y: 432
+Contour:
+Area: 8.0
+Perimeter: 11.656854152679443
+Circularity: 0.7398388372977943
+Object center position: x: 904, y: 430
+Contour:
+Area: 22.5
+Perimeter: 18.242640614509583
+Circularity: 0.8496048387182248
+Object center position: x: 837, y: 431
+Contour:
+Area: 8.0
+Perimeter: 12.0
+Circularity: 0.6981317007977318
+Object center position: x: 389, y: 430
+Contour:
+Area: 25.5
+Perimeter: 19.899494767189026
+Circularity: 0.8092187632778012
+Object center position: x: 150, y: 432
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 199, y: 430
+Contour:
+Area: 32.0
+Perimeter: 25.313708305358887
+Circularity: 0.6275499505171125
+Object center position: x: 606, y: 430
+Contour:
+Area: 10.5
+Perimeter: 13.41421353816986
+Circularity: 0.7332781295132426
+Object center position: x: 536, y: 428
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 84, y: 428
+Contour:
+Area: 0.5
+Perimeter: 12.242640614509583
+Circularity: 0.04192081010288971
+Object center position: x: 648, y: 426
+Contour:
+Area: 10.0
+Perimeter: 12.485281229019165
+Circularity: 0.8061450759506535
+Object center position: x: 36, y: 428
+Contour:
+Area: 18.0
+Perimeter: 17.656854152679443
+Circularity: 0.7255305594341376
+Object center position: x: 928, y: 427
+Contour:
+Area: 21.0
+Perimeter: 18.485281229019165
+Circularity: 0.7722839948240977
+Object center position: x: 637, y: 427
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 826, y: 425
+Contour:
+Area: 1.5
+Perimeter: 40.72792184352875
+Circularity: 0.011363617890148402
+Object center position: x: 70, y: 426
+Contour:
+Area: 23.0
+Perimeter: 17.656854152679443
+Circularity: 0.9270668259436202
+Object center position: x: 25, y: 426
+Contour:
+Area: 22.0
+Perimeter: 18.485281229019165
+Circularity: 0.8090594231490545
+Object center position: x: 5, y: 426
+Contour:
+Area: 15.5
+Perimeter: 15.071067690849304
+Circularity: 0.8575382908489095
+Object center position: x: 426, y: 425
+Contour:
+Area: 6.0
+Perimeter: 9.656854152679443
+Circularity: 0.8085181428902574
+Object center position: x: 401, y: 424
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 515, y: 423
+Contour:
+Area: 11.5
+Perimeter: 13.41421353816986
+Circularity: 0.8031141418478369
+Object center position: x: 454, y: 422
+Contour:
+Area: 1.5
+Perimeter: 27.071067690849304
+Circularity: 0.025721148302635884
+Object center position: x: 96, y: 422
+Contour:
+Area: 14.5
+Perimeter: 15.071067690849304
+Circularity: 0.8022132398263994
+Object center position: x: 992, y: 422
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 816, y: 421
+Contour:
+Area: 20.5
+Perimeter: 17.071067690849304
+Circularity: 0.8839798310353423
+Object center position: x: 882, y: 421
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 746, y: 420
+Contour:
+Area: 25.5
+Perimeter: 19.899494767189026
+Circularity: 0.8092187632778012
+Object center position: x: 709, y: 421
+Contour:
+Area: 15.5
+Perimeter: 15.071067690849304
+Circularity: 0.8575382908489095
+Object center position: x: 652, y: 419
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 499, y: 418
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 74, y: 418
+Contour:
+Area: 21.5
+Perimeter: 19.071067690849304
+Circularity: 0.7428451781348111
+Object center position: x: 852, y: 417
+Contour:
+Area: 17.0
+Perimeter: 16.82842707633972
+Circularity: 0.7543479859516065
+Object center position: x: 718, y: 416
+Contour:
+Area: 13.0
+Perimeter: 13.656854152679443
+Circularity: 0.8758946496539216
+Object center position: x: 80, y: 416
+Contour:
+Area: 8.0
+Perimeter: 10.828427076339722
+Circularity: 0.8573716100878628
+Object center position: x: 764, y: 414
+Contour:
+Area: 11.0
+Perimeter: 15.656854152679443
+Circularity: 0.5638888888359976
+Object center position: x: 678, y: 415
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 951, y: 414
+Contour:
+Area: 20.0
+Perimeter: 18.485281229019165
+Circularity: 0.7355085664991405
+Object center position: x: 594, y: 414
+Contour:
+Area: 10.0
+Perimeter: 12.485281229019165
+Circularity: 0.8061450759506535
+Object center position: x: 524, y: 413
+Contour:
+Area: 43.0
+Perimeter: 36.14213538169861
+Circularity: 0.41366683441495344
+Object center position: x: 640, y: 416
+Contour:
+Area: 19.0
+Perimeter: 16.485281229019165
+Circularity: 0.8785586201763613
+Object center position: x: 254, y: 413
+Contour:
+Area: 36.5
+Perimeter: 27.55634891986847
+Circularity: 0.6040312088114577
+Object center position: x: 931, y: 414
+Contour:
+Area: 25.0
+Perimeter: 19.313708305358887
+Circularity: 0.842206398844018
+Object center position: x: 813, y: 411
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 779, y: 410
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 215, y: 409
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 969, y: 408
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 267, y: 408
+Contour:
+Area: 14.0
+Perimeter: 14.828427076339722
+Circularity: 0.8001063703614795
+Object center position: x: 140, y: 407
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 766, y: 404
+Contour:
+Area: 17.0
+Perimeter: 16.82842707633972
+Circularity: 0.7543479859516065
+Object center position: x: 612, y: 405
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 538, y: 402
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 216, y: 403
+Contour:
+Area: 17.0
+Perimeter: 16.485281229019165
+Circularity: 0.786078765420955
+Object center position: x: 46, y: 405
+Contour:
+Area: 28.0
+Perimeter: 20.485281229019165
+Circularity: 0.8384632543695658
+Object center position: x: 260, y: 403
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 655, y: 401
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 840, y: 399
+Contour:
+Area: 8.0
+Perimeter: 10.828427076339722
+Circularity: 0.8573716100878628
+Object center position: x: 661, y: 400
+Contour:
+Area: 13.5
+Perimeter: 15.071067690849304
+Circularity: 0.746888188803889
+Object center position: x: 602, y: 401
+Contour:
+Area: 28.0
+Perimeter: 32.97056245803833
+Circularity: 0.3236794916439226
+Object center position: x: 329, y: 402
+Contour:
+Area: 15.0
+Perimeter: 14.828427076339722
+Circularity: 0.8572568253872993
+Object center position: x: 165, y: 401
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 943, y: 399
+Contour:
+Area: 17.5
+Perimeter: 17.071067690849304
+Circularity: 0.7546169289326093
+Object center position: x: 906, y: 400
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 361, y: 399
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 175, y: 399
+Contour:
+Area: 19.5
+Perimeter: 17.071067690849304
+Circularity: 0.8408588636677646
+Object center position: x: 795, y: 398
+Contour:
+Area: 8.0
+Perimeter: 12.0
+Circularity: 0.6981317007977318
+Object center position: x: 147, y: 397
+Contour:
+Area: 21.5
+Perimeter: 18.242640614509583
+Circularity: 0.8118446236640815
+Object center position: x: 914, y: 397
+Contour:
+Area: 10.0
+Perimeter: 13.656854152679443
+Circularity: 0.6737651151184011
+Object center position: x: 401, y: 397
+Contour:
+Area: 19.0
+Perimeter: 17.656854152679443
+Circularity: 0.7658378127360341
+Object center position: x: 298, y: 397
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 822, y: 396
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 50, y: 396
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 935, y: 395
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 850, y: 395
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 651, y: 393
+Contour:
+Area: 12.5
+Perimeter: 15.071067690849304
+Circularity: 0.6915631377813787
+Object center position: x: 114, y: 394
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 9, y: 393
+Contour:
+Area: 12.0
+Perimeter: 14.0
+Circularity: 0.7693696294505615
+Object center position: x: 288, y: 392
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 616, y: 391
+Contour:
+Area: 20.5
+Perimeter: 17.071067690849304
+Circularity: 0.8839798310353423
+Object center position: x: 419, y: 392
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 375, y: 392
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 539, y: 391
+Contour:
+Area: 9.0
+Perimeter: 12.485281229019165
+Circularity: 0.7255305683555883
+Object center position: x: 321, y: 390
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 152, y: 390
+Contour:
+Area: 23.0
+Perimeter: 17.656854152679443
+Circularity: 0.9270668259436202
+Object center position: x: 884, y: 389
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 830, y: 389
+Contour:
+Area: 0.5
+Perimeter: 10.242640614509583
+Circularity: 0.05989023245496899
+Object center position: x: 336, y: 387
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 476, y: 388
+Contour:
+Area: 8.0
+Perimeter: 10.828427076339722
+Circularity: 0.8573716100878628
+Object center position: x: 870, y: 386
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 771, y: 386
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 463, y: 387
+Contour:
+Area: 8.0
+Perimeter: 11.656854152679443
+Circularity: 0.7398388372977943
+Object center position: x: 35, y: 386
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 800, y: 385
+Contour:
+Area: 2.5
+Perimeter: 44.38477599620819
+Circularity: 0.015947103316411863
+Object center position: x: 63, y: 386
+Contour:
+Area: 8.0
+Perimeter: 11.656854152679443
+Circularity: 0.7398388372977943
+Object center position: x: 121, y: 384
+Contour:
+Area: 13.5
+Perimeter: 15.071067690849304
+Circularity: 0.746888188803889
+Object center position: x: 55, y: 385
+Contour:
+Area: 29.5
+Perimeter: 21.899494767189026
+Circularity: 0.7729718691710937
+Object center position: x: 983, y: 385
+Contour:
+Area: 25.5
+Perimeter: 19.899494767189026
+Circularity: 0.8092187632778012
+Object center position: x: 352, y: 385
+Contour:
+Area: 13.0
+Perimeter: 24.485281229019165
+Circularity: 0.27248526566878317
+Object center position: x: 494, y: 382
+Contour:
+Area: 18.5
+Perimeter: 17.071067690849304
+Circularity: 0.797737896300187
+Object center position: x: 154, y: 382
+Contour:
+Area: 1.0
+Perimeter: 48.62741661071777
+Circularity: 0.005314317145456773
+Object center position: x: 98, y: 383
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 674, y: 380
+Contour:
+Area: 1.0
+Perimeter: 8.828427076339722
+Circularity: 0.16122901320758615
+Object center position: x: 199, y: 380
+Contour:
+Area: 21.5
+Perimeter: 19.071067690849304
+Circularity: 0.7428451781348111
+Object center position: x: 504, y: 379
+Contour:
+Area: 12.5
+Perimeter: 15.071067690849304
+Circularity: 0.6915631377813787
+Object center position: x: 212, y: 378
+Contour:
+Area: 21.0
+Perimeter: 18.82842707633972
+Circularity: 0.7443909379207413
+Object center position: x: 411, y: 378
+Contour:
+Area: 0.5
+Perimeter: 12.242640614509583
+Circularity: 0.04192081010288971
+Object center position: x: 304, y: 376
+Contour:
+Area: 20.5
+Perimeter: 19.071067690849304
+Circularity: 0.7082942396169128
+Object center position: x: 127, y: 378
+Contour:
+Area: 9.5
+Perimeter: 13.071067690849304
+Circularity: 0.698733140133956
+Object center position: x: 108, y: 377
+Contour:
+Area: 24.5
+Perimeter: 19.071067690849304
+Circularity: 0.8464979936885056
+Object center position: x: 398, y: 377
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 390, y: 375
+Contour:
+Area: 1.0
+Perimeter: 19.313708305358887
+Circularity: 0.03368825595376072
+Object center position: x: 279, y: 376
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 535, y: 374
+Contour:
+Area: 1.0
+Perimeter: 16.485281229019165
+Circularity: 0.04623992737770323
+Object center position: x: 139, y: 375
+Contour:
+Area: 11.5
+Perimeter: 13.41421353816986
+Circularity: 0.8031141418478369
+Object center position: x: 895, y: 373
+Contour:
+Area: 15.5
+Perimeter: 15.071067690849304
+Circularity: 0.8575382908489095
+Object center position: x: 864, y: 373
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 424, y: 372
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 317, y: 372
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 588, y: 371
+Contour:
+Area: 12.5
+Perimeter: 15.071067690849304
+Circularity: 0.6915631377813787
+Object center position: x: 528, y: 372
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 232, y: 371
+Contour:
+Area: 1.5
+Perimeter: 22.727921843528748
+Circularity: 0.036490655806679075
+Object center position: x: 191, y: 372
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 44, y: 372
+Contour:
+Area: 0.5
+Perimeter: 17.071067690849304
+Circularity: 0.021560483683788836
+Object center position: x: 335, y: 369
+Contour:
+Area: 19.0
+Perimeter: 17.656854152679443
+Circularity: 0.7658378127360341
+Object center position: x: 575, y: 369
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 945, y: 367
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 432, y: 366
+Contour:
+Area: 19.0
+Perimeter: 16.485281229019165
+Circularity: 0.8785586201763613
+Object center position: x: 480, y: 365
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 95, y: 365
+Contour:
+Area: 24.5
+Perimeter: 19.071067690849304
+Circularity: 0.8464979936885056
+Object center position: x: 381, y: 365
+Contour:
+Area: 17.0
+Perimeter: 18.14213538169861
+Circularity: 0.6490557153432933
+Object center position: x: 115, y: 364
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 966, y: 362
+Contour:
+Area: 28.5
+Perimeter: 25.899494767189026
+Circularity: 0.533915021384296
+Object center position: x: 493, y: 364
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 976, y: 360
+Contour:
+Area: 9.5
+Perimeter: 13.41421353816986
+Circularity: 0.6634421171786479
+Object center position: x: 727, y: 360
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 895, y: 359
+Contour:
+Area: 17.0
+Perimeter: 15.656854152679443
+Circularity: 0.8714646463829057
+Object center position: x: 393, y: 360
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 575, y: 359
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 888, y: 355
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 791, y: 355
+Contour:
+Area: 19.0
+Perimeter: 18.485281229019165
+Circularity: 0.6987331381741835
+Object center position: x: 501, y: 355
+Contour:
+Area: 10.0
+Perimeter: 13.656854152679443
+Circularity: 0.6737651151184011
+Object center position: x: 483, y: 355
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 103, y: 355
+Contour:
+Area: 59.0
+Perimeter: 43.79898953437805
+Circularity: 0.38648593458554686
+Object center position: x: 446, y: 357
+Contour:
+Area: 44.0
+Perimeter: 43.79898953437805
+Circularity: 0.2882267986739671
+Object center position: x: 149, y: 358
+Contour:
+Area: 0.5
+Perimeter: 7.414213538169861
+Circularity: 0.11430091005163992
+Object center position: x: 46, y: 353
+Contour:
+Area: 14.5
+Perimeter: 15.071067690849304
+Circularity: 0.8022132398263994
+Object center position: x: 579, y: 353
+Contour:
+Area: 5.5
+Perimeter: 9.41421353816986
+Circularity: 0.7798381254407765
+Object center position: x: 370, y: 352
+Contour:
+Area: 25.5
+Perimeter: 19.071067690849304
+Circularity: 0.8810489322064039
+Object center position: x: 680, y: 352
+Contour:
+Area: 19.0
+Perimeter: 17.656854152679443
+Circularity: 0.7658378127360341
+Object center position: x: 279, y: 352
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 745, y: 350
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 557, y: 351
+Contour:
+Area: 18.0
+Perimeter: 27.313708305358887
+Circularity: 0.3031943018032805
+Object center position: x: 381, y: 350
+Contour:
+Area: 1.0
+Perimeter: 16.485281229019165
+Circularity: 0.04623992737770323
+Object center position: x: 266, y: 351
+Contour:
+Area: 0.5
+Perimeter: 10.242640614509583
+Circularity: 0.05989023245496899
+Object center position: x: 248, y: 349
+Contour:
+Area: 22.0
+Perimeter: 18.485281229019165
+Circularity: 0.8090594231490545
+Object center position: x: 760, y: 349
+Contour:
+Area: 1.0
+Perimeter: 15.656854152679443
+Circularity: 0.051262626257817974
+Object center position: x: 125, y: 346
+Contour:
+Area: 8.0
+Perimeter: 11.656854152679443
+Circularity: 0.7398388372977943
+Object center position: x: 105, y: 347
+Contour:
+Area: 18.0
+Perimeter: 17.656854152679443
+Circularity: 0.7255305594341376
+Object center position: x: 778, y: 347
+Contour:
+Area: 13.0
+Perimeter: 13.656854152679443
+Circularity: 0.8758946496539216
+Object center position: x: 653, y: 345
+Contour:
+Area: 18.0
+Perimeter: 16.485281229019165
+Circularity: 0.8323186927986581
+Object center position: x: 152, y: 346
+Contour:
+Area: 1.0
+Perimeter: 10.828427076339722
+Circularity: 0.10717145126098285
+Object center position: x: 601, y: 344
+Contour:
+Area: 12.5
+Perimeter: 15.071067690849304
+Circularity: 0.6915631377813787
+Object center position: x: 563, y: 344
+Contour:
+Area: 18.5
+Perimeter: 17.071067690849304
+Circularity: 0.797737896300187
+Object center position: x: 309, y: 343
+Contour:
+Area: 1.0
+Perimeter: 21.313708305358887
+Circularity: 0.027662525569615813
+Object center position: x: 186, y: 344
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 44, y: 341
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 763, y: 341
+Contour:
+Area: 12.5
+Perimeter: 16.242640614509583
+Circularity: 0.5953969514499048
+Object center position: x: 520, y: 339
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 337, y: 339
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 192, y: 339
+Contour:
+Area: 21.0
+Perimeter: 17.656854152679443
+Circularity: 0.8464523193398272
+Object center position: x: 739, y: 339
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 692, y: 338
+Contour:
+Area: 1.0
+Perimeter: 8.828427076339722
+Circularity: 0.16122901320758615
+Object center position: x: 261, y: 338
+Contour:
+Area: 21.5
+Perimeter: 17.899494767189026
+Circularity: 0.843270249070409
+Object center position: x: 809, y: 338
+Contour:
+Area: 22.5
+Perimeter: 19.071067690849304
+Circularity: 0.7773961166527094
+Object center position: x: 727, y: 339
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 597, y: 337
+Contour:
+Area: 27.0
+Perimeter: 20.485281229019165
+Circularity: 0.8085181381420813
+Object center position: x: 798, y: 337
+Contour:
+Area: 13.5
+Perimeter: 13.899494767189026
+Circularity: 0.8781032888825036
+Object center position: x: 611, y: 335
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 527, y: 334
+Contour:
+Area: 8.0
+Perimeter: 10.828427076339722
+Circularity: 0.8573716100878628
+Object center position: x: 487, y: 334
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 159, y: 335
+Contour:
+Area: 14.0
+Perimeter: 14.828427076339722
+Circularity: 0.8001063703614795
+Object center position: x: 715, y: 331
+Contour:
+Area: 17.0
+Perimeter: 16.485281229019165
+Circularity: 0.786078765420955
+Object center position: x: 852, y: 329
+Contour:
+Area: 12.0
+Perimeter: 15.656854152679443
+Circularity: 0.6151515150938157
+Object center position: x: 766, y: 327
+Contour:
+Area: 0.5
+Perimeter: 10.242640614509583
+Circularity: 0.05989023245496899
+Object center position: x: 10, y: 326
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 696, y: 326
+Contour:
+Area: 15.5
+Perimeter: 16.242640614509583
+Circularity: 0.7382922197978818
+Object center position: x: 583, y: 326
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 386, y: 320
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 264, y: 319
+Contour:
+Area: 19.5
+Perimeter: 18.242640614509583
+Circularity: 0.7363241935557948
+Object center position: x: 670, y: 319
+Contour:
+Area: 13.5
+Perimeter: 16.242640614509583
+Circularity: 0.6430287075658971
+Object center position: x: 872, y: 318
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 807, y: 316
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 446, y: 316
+Contour:
+Area: 19.5
+Perimeter: 17.071067690849304
+Circularity: 0.8408588636677646
+Object center position: x: 430, y: 316
+Contour:
+Area: 10.0
+Perimeter: 12.485281229019165
+Circularity: 0.8061450759506535
+Object center position: x: 268, y: 315
+Contour:
+Area: 19.5
+Perimeter: 17.899494767189026
+Circularity: 0.7648265049708362
+Object center position: x: 201, y: 316
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 15, y: 315
+Contour:
+Area: 0.5
+Perimeter: 11.071067690849304
+Circularity: 0.05126262674454914
+Object center position: x: 452, y: 312
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 46, y: 313
+Contour:
+Area: 16.5
+Perimeter: 17.071067690849304
+Circularity: 0.7114959615650317
+Object center position: x: 695, y: 312
+Contour:
+Area: 9.0
+Perimeter: 11.656854152679443
+Circularity: 0.8323186919600186
+Object center position: x: 776, y: 311
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 904, y: 310
+Contour:
+Area: 19.0
+Perimeter: 17.656854152679443
+Circularity: 0.7658378127360341
+Object center position: x: 722, y: 311
+Contour:
+Area: 3.0
+Perimeter: 6.828427076339722
+Circularity: 0.8085181381420814
+Object center position: x: 102, y: 310
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 627, y: 308
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 542, y: 307
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 450, y: 307
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 124, y: 307
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 936, y: 306
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 908, y: 305
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 644, y: 306
+Contour:
+Area: 17.5
+Perimeter: 17.071067690849304
+Circularity: 0.7546169289326093
+Object center position: x: 561, y: 306
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 190, y: 305
+Contour:
+Area: 17.5
+Perimeter: 16.242640614509583
+Circularity: 0.8335557320298667
+Object center position: x: 977, y: 305
+Contour:
+Area: 10.5
+Perimeter: 14.242640614509583
+Circularity: 0.6504563104738691
+Object center position: x: 715, y: 303
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 131, y: 304
+Contour:
+Area: 15.5
+Perimeter: 15.071067690849304
+Circularity: 0.8575382908489095
+Object center position: x: 957, y: 303
+Contour:
+Area: 13.5
+Perimeter: 15.071067690849304
+Circularity: 0.746888188803889
+Object center position: x: 40, y: 302
+Contour:
+Area: 1.0
+Perimeter: 14.828427076339722
+Circularity: 0.05715045502581996
+Object center position: x: 680, y: 301
+Contour:
+Area: 1.5
+Perimeter: 10.242640614509583
+Circularity: 0.17967069736490698
+Object center position: x: 451, y: 300
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 967, y: 298
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 953, y: 298
+Contour:
+Area: 1.0
+Perimeter: 10.828427076339722
+Circularity: 0.10717145126098285
+Object center position: x: 759, y: 298
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 176, y: 298
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 652, y: 297
+Contour:
+Area: 9.0
+Perimeter: 12.828427076339722
+Circularity: 0.6872354501543845
+Object center position: x: 207, y: 295
+Contour:
+Area: 9.0
+Perimeter: 12.0
+Circularity: 0.7853981633974483
+Object center position: x: 743, y: 294
+Contour:
+Area: 14.5
+Perimeter: 15.41421353816986
+Circularity: 0.7668936186867932
+Object center position: x: 679, y: 294
+Contour:
+Area: 2.5
+Perimeter: 8.242640614509583
+Circularity: 0.4623992737770323
+Object center position: x: 556, y: 294
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 62, y: 295
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 96, y: 293
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 70, y: 292
+Contour:
+Area: 11.5
+Perimeter: 14.242640614509583
+Circularity: 0.7124045305189994
+Object center position: x: 245, y: 292
+Contour:
+Area: 6.5
+Perimeter: 45.55634891986847
+Circularity: 0.03935730926996419
+Object center position: x: 102, y: 291
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 944, y: 290
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 906, y: 290
+Contour:
+Area: 1.0
+Perimeter: 6.828427076339722
+Circularity: 0.26950604604736045
+Object center position: x: 816, y: 289
+Contour:
+Area: 10.0
+Perimeter: 12.828427076339722
+Circularity: 0.7635949446159828
+Object center position: x: 748, y: 289
+Contour:
+Area: 10.5
+Perimeter: 13.071067690849304
+Circularity: 0.772283996990162
+Object center position: x: 352, y: 289
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 786, y: 289
+Contour:
+Area: 1.0
+Perimeter: 25.313708305358887
+Circularity: 0.019610935953659765
+Object center position: x: 3, y: 289
+Contour:
+Area: 18.0
+Perimeter: 16.82842707633972
+Circularity: 0.7987213968899363
+Object center position: x: 682, y: 288
+Contour:
+Area: 13.0
+Perimeter: 15.313708305358887
+Circularity: 0.6966144445841445
+Object center position: x: 205, y: 288
+Contour:
+Area: 23.0
+Perimeter: 18.485281229019165
+Circularity: 0.8458348514740116
+Object center position: x: 191, y: 286
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 218, y: 285
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 14, y: 284
+Contour:
+Area: 15.0
+Perimeter: 15.656854152679443
+Circularity: 0.7689393938672696
+Object center position: x: 819, y: 283
+Contour:
+Area: 11.0
+Perimeter: 12.828427076339722
+Circularity: 0.8399544390775809
+Object center position: x: 694, y: 283
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 347, y: 283
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 932, y: 283
+Contour:
+Area: 13.0
+Perimeter: 14.485281229019165
+Circularity: 0.7785730264869145
+Object center position: x: 624, y: 283
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 590, y: 282
+Contour:
+Area: 8.0
+Perimeter: 11.656854152679443
+Circularity: 0.7398388372977943
+Object center position: x: 911, y: 282
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 778, y: 282
+Contour:
+Area: 2.5
+Perimeter: 6.2426406145095825
+Circularity: 0.8061450759506535
+Object center position: x: 462, y: 280
+Contour:
+Area: 15.5
+Perimeter: 16.242640614509583
+Circularity: 0.7382922197978818
+Object center position: x: 296, y: 282
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 65, y: 281
+Contour:
+Area: 5.5
+Perimeter: 9.41421353816986
+Circularity: 0.7798381254407765
+Object center position: x: 988, y: 279
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 119, y: 279
+Contour:
+Area: 0.5
+Perimeter: 18.727921843528748
+Circularity: 0.017914335021125636
+Object center position: x: 192, y: 277
+Contour:
+Area: 0.5
+Perimeter: 10.242640614509583
+Circularity: 0.05989023245496899
+Object center position: x: 627, y: 277
+Contour:
+Area: 0.5
+Perimeter: 9.41421353816986
+Circularity: 0.0708943750400706
+Object center position: x: 551, y: 275
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 267, y: 276
+Contour:
+Area: 23.5
+Perimeter: 19.071067690849304
+Circularity: 0.8119470551706076
+Object center position: x: 963, y: 276
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 716, y: 274
+Contour:
+Area: 9.0
+Perimeter: 13.656854152679443
+Circularity: 0.606388603606561
+Object center position: x: 259, y: 275
+Contour:
+Area: 1.5
+Perimeter: 23.071067690849304
+Circularity: 0.03541324599689558
+Object center position: x: 242, y: 272
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 830, y: 272
+Contour:
+Area: 16.5
+Perimeter: 16.242640614509583
+Circularity: 0.7859239759138743
+Object center position: x: 803, y: 273
+Contour:
+Area: 9.0
+Perimeter: 12.0
+Circularity: 0.7853981633974483
+Object center position: x: 143, y: 272
+Contour:
+Area: 18.5
+Perimeter: 17.071067690849304
+Circularity: 0.797737896300187
+Object center position: x: 130, y: 273
+Contour:
+Area: 0.5
+Perimeter: 7.414213538169861
+Circularity: 0.11430091005163992
+Object center position: x: 651, y: 271
+Contour:
+Area: 20.0
+Perimeter: 16.485281229019165
+Circularity: 0.9247985475540647
+Object center position: x: 328, y: 272
+Contour:
+Area: 1.0
+Perimeter: 14.485281229019165
+Circularity: 0.05989023280668573
+Object center position: x: 280, y: 270
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 154, y: 271
+Contour:
+Area: 3.0
+Perimeter: 36.97056245803833
+Circularity: 0.02758157124371777
+Object center position: x: 995, y: 270
+Contour:
+Area: 22.5
+Perimeter: 19.899494767189026
+Circularity: 0.714016555833354
+Object center position: x: 680, y: 271
+Contour:
+Area: 0.5
+Perimeter: 7.414213538169861
+Circularity: 0.11430091005163992
+Object center position: x: 445, y: 269
+Contour:
+Area: 21.0
+Perimeter: 17.313708305358887
+Circularity: 0.8803370214086239
+Object center position: x: 292, y: 270
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 793, y: 269
+Contour:
+Area: 41.0
+Perimeter: 32.14213538169861
+Circularity: 0.49870562730912216
+Object center position: x: 570, y: 272
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 560, y: 268
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 315, y: 269
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 408, y: 268
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 741, y: 267
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 960, y: 266
+Contour:
+Area: 7.0
+Perimeter: 10.828427076339722
+Circularity: 0.75020015882688
+Object center position: x: 262, y: 264
+Contour:
+Area: 6.0
+Perimeter: 9.656854152679443
+Circularity: 0.8085181428902574
+Object center position: x: 505, y: 263
+Contour:
+Area: 6.5
+Perimeter: 25.55634891986847
+Circularity: 0.1250620671491636
+Object center position: x: 492, y: 266
+Contour:
+Area: 6.0
+Perimeter: 10.0
+Circularity: 0.7539822368615503
+Object center position: x: 463, y: 262
+Contour:
+Area: 29.0
+Perimeter: 20.485281229019165
+Circularity: 0.8684083705970504
+Object center position: x: 385, y: 260
+Contour:
+Area: 51.0
+Perimeter: 31.313708305358887
+Circularity: 0.6535984847871792
+Object center position: x: 988, y: 260
+Contour:
+Area: 21.5
+Perimeter: 19.071067690849304
+Circularity: 0.7428451781348111
+Object center position: x: 363, y: 258
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 583, y: 256
+Contour:
+Area: 27.0
+Perimeter: 20.485281229019165
+Circularity: 0.8085181381420813
+Object center position: x: 829, y: 256
+Contour:
+Area: 29.5
+Perimeter: 21.071067690849304
+Circularity: 0.8349467824386132
+Object center position: x: 523, y: 256
+Contour:
+Area: 16.5
+Perimeter: 15.899494767189026
+Circularity: 0.8202139662830028
+Object center position: x: 952, y: 254
+Contour:
+Area: 9.5
+Perimeter: 13.071067690849304
+Circularity: 0.698733140133956
+Object center position: x: 893, y: 253
+Contour:
+Area: 23.5
+Perimeter: 19.899494767189026
+Circularity: 0.745750624981503
+Object center position: x: 506, y: 253
+Contour:
+Area: 22.5
+Perimeter: 19.071067690849304
+Circularity: 0.7773961166527094
+Object center position: x: 352, y: 252
+Contour:
+Area: 17.0
+Perimeter: 16.485281229019165
+Circularity: 0.786078765420955
+Object center position: x: 879, y: 251
+Contour:
+Area: 26.5
+Perimeter: 19.899494767189026
+Circularity: 0.8409528324259502
+Object center position: x: 637, y: 251
+Contour:
+Area: 23.0
+Perimeter: 19.656854152679443
+Circularity: 0.7480139018846566
+Object center position: x: 447, y: 250
+Contour:
+Area: 17.0
+Perimeter: 16.82842707633972
+Circularity: 0.7543479859516065
+Object center position: x: 478, y: 248
+Contour:
+Area: 8.0
+Perimeter: 11.656854152679443
+Circularity: 0.7398388372977943
+Object center position: x: 725, y: 246
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 664, y: 247
+Contour:
+Area: 14.0
+Perimeter: 14.485281229019165
+Circularity: 0.8384632592936002
+Object center position: x: 544, y: 247
+Contour:
+Area: 15.5
+Perimeter: 16.242640614509583
+Circularity: 0.7382922197978818
+Object center position: x: 531, y: 247
+Contour:
+Area: 14.0
+Perimeter: 15.656854152679443
+Circularity: 0.7176767676094516
+Object center position: x: 485, y: 247
+Contour:
+Area: 9.5
+Perimeter: 12.242640614509583
+Circularity: 0.7964953919549046
+Object center position: x: 957, y: 245
+Contour:
+Area: 0.5
+Perimeter: 21.071067690849304
+Circularity: 0.014151640380315477
+Object center position: x: 904, y: 243
+Contour:
+Area: 6.0
+Perimeter: 14.485281229019165
+Circularity: 0.35934139684011435
+Object center position: x: 682, y: 244
+Contour:
+Area: 1.0
+Perimeter: 10.828427076339722
+Circularity: 0.10717145126098285
+Object center position: x: 770, y: 243
+Contour:
+Area: 13.0
+Perimeter: 14.828427076339722
+Circularity: 0.7429559153356595
+Object center position: x: 506, y: 244
+Contour:
+Area: 18.5
+Perimeter: 17.071067690849304
+Circularity: 0.797737896300187
+Object center position: x: 559, y: 243
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 835, y: 241
+Contour:
+Area: 0.5
+Perimeter: 15.071067690849304
+Circularity: 0.027662525511255146
+Object center position: x: 997, y: 238
+Contour:
+Area: 21.0
+Perimeter: 18.485281229019165
+Circularity: 0.7722839948240977
+Object center position: x: 452, y: 239
+Contour:
+Area: 13.5
+Perimeter: 15.071067690849304
+Circularity: 0.746888188803889
+Object center position: x: 674, y: 234
+Contour:
+Area: 66.5
+Perimeter: 38.38477599620819
+Circularity: 0.567170309724866
+Object center position: x: 608, y: 235
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 902, y: 231
+Contour:
+Area: 12.5
+Perimeter: 14.242640614509583
+Circularity: 0.7743527505641299
+Object center position: x: 930, y: 231
+Contour:
+Area: 6.0
+Perimeter: 9.656854152679443
+Circularity: 0.8085181428902574
+Object center position: x: 764, y: 230
+Contour:
+Area: 1.0
+Perimeter: 17.656854152679443
+Circularity: 0.04030725330189654
+Object center position: x: 949, y: 229
+Contour:
+Area: 52.0
+Perimeter: 30.14213538169861
+Circularity: 0.719225663292634
+Object center position: x: 756, y: 232
+Contour:
+Area: 16.0
+Perimeter: 15.656854152679443
+Circularity: 0.8202020201250876
+Object center position: x: 911, y: 228
+Contour:
+Area: 4.0
+Perimeter: 8.0
+Circularity: 0.7853981633974483
+Object center position: x: 673, y: 227
+Contour:
+Area: 17.0
+Perimeter: 16.82842707633972
+Circularity: 0.7543479859516065
+Object center position: x: 642, y: 228
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 953, y: 219
+Contour:
+Area: 18.0
+Perimeter: 17.656854152679443
+Circularity: 0.7255305594341376
+Object center position: x: 746, y: 220
+Contour:
+Area: 29.5
+Perimeter: 21.899494767189026
+Circularity: 0.7729718691710937
+Object center position: x: 794, y: 217
+Contour:
+Area: 19.5
+Perimeter: 17.071067690849304
+Circularity: 0.8408588636677646
+Object center position: x: 457, y: 217
+Contour:
+Area: 20.0
+Perimeter: 17.656854152679443
+Circularity: 0.8061450660379307
+Object center position: x: 640, y: 216
+Contour:
+Area: 24.0
+Perimeter: 18.485281229019165
+Circularity: 0.8826102797989687
+Object center position: x: 758, y: 215
+Contour:
+Area: 51.5
+Perimeter: 30.727921843528748
+Circularity: 0.6854104380957562
+Object center position: x: 672, y: 216
+Contour:
+Area: 8.5
+Perimeter: 11.41421353816986
+Circularity: 0.8198545354117053
+Object center position: x: 688, y: 212
+Contour:
+Area: 12.5
+Perimeter: 15.071067690849304
+Circularity: 0.6915631377813787
+Object center position: x: 704, y: 212
+Contour:
+Area: 5.5
+Perimeter: 65.35533845424652
+Circularity: 0.016181188508365297
+Object center position: x: 850, y: 211
+Contour:
+Area: 28.0
+Perimeter: 19.656854152679443
+Circularity: 0.9106256196856689
+Object center position: x: 839, y: 210
+Contour:
+Area: 12.0
+Perimeter: 13.656854152679443
+Circularity: 0.8085181381420814
+Object center position: x: 637, y: 209
+Contour:
+Area: 15.0
+Perimeter: 15.656854152679443
+Circularity: 0.7689393938672696
+Object center position: x: 891, y: 204
+Contour:
+Area: 23.0
+Perimeter: 18.485281229019165
+Circularity: 0.8458348514740116
+Object center position: x: 736, y: 205
+Contour:
+Area: 5.0
+Perimeter: 8.828427076339722
+Circularity: 0.8061450660379307
+Object center position: x: 687, y: 202
+Contour:
+Area: 17.0
+Perimeter: 16.485281229019165
+Circularity: 0.786078765420955
+Object center position: x: 776, y: 202
+Contour:
+Area: 13.5
+Perimeter: 15.071067690849304
+Circularity: 0.746888188803889
+Object center position: x: 766, y: 202
+Contour:
+Area: 18.0
+Perimeter: 17.313708305358887
+Circularity: 0.7545745897788205
+Object center position: x: 946, y: 200
+Contour:
+Area: 26.5
+Perimeter: 19.899494767189026
+Circularity: 0.8409528324259502
+Object center position: x: 973, y: 193
+Contour:
+Area: 20.5
+Perimeter: 17.071067690849304
+Circularity: 0.8839798310353423
+Object center position: x: 904, y: 190
+Contour:
+Area: 34.5
+Perimeter: 28.727921843528748
+Circularity: 0.5253158902103503
+Object center position: x: 956, y: 184
+Contour:
+Area: 18.5
+Perimeter: 17.071067690849304
+Circularity: 0.797737896300187
+Object center position: x: 932, y: 183
+Contour:
+Area: 17.0
+Perimeter: 16.485281229019165
+Circularity: 0.786078765420955
+Object center position: x: 967, y: 182
+Contour:
+Area: 11.0
+Perimeter: 13.656854152679443
+Circularity: 0.7411416266302412
+Object center position: x: 934, y: 172
+Pumpkins counted: 1424
